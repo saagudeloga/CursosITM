@@ -1,0 +1,1001 @@
+id_pedido	fecha	dia_semana	punto_venta	turno	tipo_pizza	tiempo_preparacion	tiempo_entrega	temperatura_salida	errores_pedido	satisfaccion_cliente
+P00001	2025-04-02	miércoles	A	Noche	Pollo BBQ	10	25.4	210.4	0	Bueno
+P00002	2025-11-06	jueves	A	Noche	Pepperoni	10	19.6	225.2	0	Bueno
+P00003	2025-05-19	lunes	A	Noche	Vegetariana	12.1	25.2	204.4	0	Bueno
+P00004	2025-10-17	viernes	B	Tarde	Vegetariana	13.3	24	207.8	0	Bueno
+P00005	2025-07-01	martes	A	Mañana	Hawaiana	11	35	223.3	0	Malo
+P00006	2025-01-03	viernes	A	Tarde	Pollo BBQ	11.9	38	196.5	0	Malo
+P00007	2025-05-20	martes	A	Tarde	Vegetariana	13.3	33	208.4	0	Malo
+P00008	2025-09-14	domingo	A	Noche	Pollo BBQ	10.6	32.5	204.7	0	Regular
+P00009	2025-04-17	jueves	A	Tarde	Vegetariana	12.3	29.1	203.4	0	Regular
+P00010	2025-01-08	miércoles	A	Tarde	Vegetariana	13.4	39.8	214.7	1	Regular
+P00011	2025-07-20	domingo	B	Mañana	Pepperoni	10.3	22	198.6	0	Bueno
+P00012	2025-12-16	martes	A	Tarde	Pollo BBQ	11.4	24.9	203.4	0	Bueno
+P00013	2025-07-05	sábado	A	Tarde	Vegetariana	13.5	34.8	213.2	0	Bueno
+P00014	2025-07-30	miércoles	A	Tarde	Pepperoni	20	47	202.6	1	Malo
+P00015	2025-03-09	domingo	A	Tarde	Hawaiana	13.7	28.6	204.8	1	Regular
+P00016	2025-02-15	sábado	A	Tarde	Vegetariana	10.7	22.1	200	0	Bueno
+P00017	2025-11-05	miércoles	A	Noche	Hawaiana	12.4	30.7	203.1	0	Regular
+P00018	2025-07-10	jueves	A	Noche	Hawaiana	15	29.1	204.1	0	Regular
+P00019	2025-06-24	martes	A	Mañana	Pepperoni	13.8	29.3	215.4	0	Regular
+P00020	2025-09-20	sábado	A	Noche	Vegetariana	11.1	22.7	218.1	0	Bueno
+P00021	2025-05-04	domingo	A	Noche	Vegetariana	11.7	26.8	223.9	1	Bueno
+P00022	2025-11-17	lunes	A	Noche	Vegetariana	10.8	16.2	190.4	0	Bueno
+P00023	2025-05-13	martes	A	Mañana	Vegetariana	10.7	28	218.6	0	Regular
+P00024	2025-07-16	miércoles	A	Noche	Pollo BBQ	10.3	29	215.9	0	Regular
+P00025	2025-02-24	lunes	A	Tarde	Pepperoni	10.4	23.6	203.9	0	Bueno
+P00026	2025-06-19	jueves	A	Noche	Hawaiana	7.7	26	207.2	0	Regular
+P00027	2025-05-03	sábado	A	Noche	Pollo BBQ	11.9	27.8	210.5	0	Bueno
+P00028	2025-11-15	sábado	A	Tarde	Hawaiana	13	25.2	202.5	0	Bueno
+P00029	2025-09-19	viernes	A	Tarde	Vegetariana	21	51	215.4	0	Malo
+P00030	2025-04-09	miércoles	A	Tarde	Pepperoni	15.3	31	189.3	1	Regular
+P00031	2025-11-21	viernes	A	Tarde	Vegetariana	14.9	32.3	212.9	0	Regular
+P00032	2025-04-15	martes	A	Noche	Pepperoni	12.8	19.6	210.9	0	Bueno
+P00033	2025-02-01	sábado	A	Tarde	Pepperoni	19	40	218.1	2	Malo
+P00034	2025-01-14	martes	A	Tarde	Vegetariana	14.8	25.2	219.3	0	Bueno
+P00035	2025-07-02	miércoles	A	Mañana	Vegetariana	14.2	28.3	209.2	0	Regular
+P00036	2025-02-14	viernes	A	Tarde	Pepperoni	15	35	215.7	0	Bueno
+P00037	2025-05-23	viernes	A	Tarde	Hawaiana	10.5	24.3	213.8	0	Bueno
+P00038	2025-08-15	viernes	A	Noche	Hawaiana	13	22.7	212.9	0	Bueno
+P00039	2025-08-03	domingo	B	Noche	Pepperoni	10.9	21	204.5	0	Bueno
+P00040	2025-07-31	jueves	A	Mañana	Pollo BBQ	11.7	31.7	210.8	0	Bueno
+P00041	2025-06-20	viernes	A	Mañana	Hawaiana	12.8	28	207.8	0	Regular
+P00042	2025-11-27	jueves	A	Noche	Vegetariana	12.6	27.9	211.5	0	Bueno
+P00043	2025-07-15	martes	A	Tarde	Pepperoni	13.8	37.4	212.4	0	Bueno
+P00044	2025-04-10	jueves	A	Noche	Vegetariana	11.8	30.8	207.7	0	Regular
+P00045	2025-09-07	domingo	A	Tarde	Vegetariana	14	36.2	212.5	0	Regular
+P00046	2025-07-16	miércoles	A	Noche	Vegetariana	13.1	25	202.1	0	Bueno
+P00047	2025-01-02	jueves	A	Tarde	Pollo BBQ	12	27.9	198.2	0	Bueno
+P00048	2025-08-21	jueves	A	Noche	Pollo BBQ	12.1	33.8	199.5	1	Bueno
+P00049	2025-08-16	sábado	B	Noche	Pepperoni	9.7	20	207.5	1	Bueno
+P00050	2025-03-14	viernes	A	Mañana	Vegetariana	12.7	27.7	206.9	0	Regular
+P00051	2025-11-25	martes	A	Tarde	Pepperoni	18	22	214.4	0	Bueno
+P00052	2025-06-07	sábado	A	Noche	Vegetariana	13.2	32.8	202.8	0	Regular
+P00053	2025-05-03	sábado	A	Mañana	Pepperoni	17	38	203.8	0	Regular
+P00054	2025-02-08	sábado	A	Mañana	Hawaiana	10.5	24.9	201.7	0	Bueno
+P00055	2025-01-07	martes	A	Tarde	Pollo BBQ	8	23.8	215.1	0	Bueno
+P00056	2025-05-10	sábado	A	Tarde	Pepperoni	11.2	26.3	208.8	0	Bueno
+P00057	2025-04-27	domingo	A	Noche	Vegetariana	11.5	26.7	209.4	0	Bueno
+P00058	2025-12-20	sábado	A	Tarde	Pepperoni	11.7	25.4	211.2	0	Bueno
+P00059	2025-03-04	martes	A	Tarde	Pepperoni	12.5	23.2	211.6	0	Bueno
+P00060	2025-05-23	viernes	A	Tarde	Vegetariana	10.5	20.3	205.2	0	Bueno
+P00061	2025-05-04	domingo	A	Tarde	Pollo BBQ	12.7	27.6	222.3	0	Bueno
+P00062	2025-08-28	jueves	A	Tarde	Pollo BBQ	13.9	22.9	206	0	Bueno
+P00063	2025-11-09	domingo	B	Noche	Pepperoni	10.3	12	204.7	0	Regular
+P00064	2025-10-10	viernes	A	Noche	Hawaiana	18	34.7	209.9	1	Regular
+P00065	2025-10-17	viernes	A	Tarde	Hawaiana	21	35	213.3	0	Regular
+P00066	2025-05-24	sábado	A	Noche	Pollo BBQ	22	32	221.8	0	Regular
+P00067	2025-08-26	martes	A	Tarde	Hawaiana	18	28	228	0	Bueno
+P00068	2025-11-02	domingo	A	Noche	Pollo BBQ	11.5	25	213.5	0	Bueno
+P00069	2025-11-28	viernes	A	Noche	Vegetariana	14.4	27	210.2	0	Bueno
+P00070	2025-10-18	sábado	B	Mañana	Vegetariana	13.7	28	203.4	0	Bueno
+P00071	2025-03-01	sábado	A	Tarde	Hawaiana	12.7	31.4	214.1	0	Bueno
+P00072	2025-01-29	miércoles	A	Tarde	Hawaiana	23	35	218.1	0	Regular
+P00073	2025-12-09	martes	A	Noche	Vegetariana	13.6	23.2	211	1	Bueno
+P00074	2025-04-13	domingo	B	Tarde	Hawaiana	9.5	25	213.2	0	Bueno
+P00075	2025-11-11	martes	A	Mañana	Hawaiana	11.5	29.1	215.6	1	Bueno
+P00076	2025-04-13	domingo	B	Noche	Hawaiana	11.4	23	230.6	1	Bueno
+P00077	2025-10-03	viernes	A	Tarde	Hawaiana	24	32.1	218.9	0	Regular
+P00078	2025-06-07	sábado	A	Tarde	Pollo BBQ	15.2	30.4	202.5	0	Bueno
+P00079	2025-09-19	viernes	A	Tarde	Hawaiana	12.7	27.5	216.7	0	Bueno
+P00080	2025-11-02	domingo	A	Noche	Hawaiana	16	30	200	0	Regular
+P00081	2025-11-28	viernes	A	Tarde	Pollo BBQ	13.1	34.8	212.7	1	Bueno
+P00082	2025-08-10	domingo	B	Noche	Hawaiana	15	19	208.7	0	Bueno
+P00083	2025-06-26	jueves	B	Noche	Hawaiana	9.7	15	203.4	1	Bueno
+P00084	2025-07-30	miércoles	A	Noche	Pepperoni	9.4	24.3	212.5	0	Bueno
+P00085	2025-06-03	martes	A	Noche	Pollo BBQ	15	31	198	0	Regular
+P00086	2025-10-28	martes	A	Noche	Pollo BBQ	13.5	22.1	213.2	0	Bueno
+P00087	2025-08-24	domingo	A	Tarde	Pollo BBQ	14	29	206	0	Regular
+P00088	2025-05-17	sábado	A	Noche	Pollo BBQ	17	31.1	226	0	Regular
+P00089	2025-09-12	viernes	A	Tarde	Pepperoni	13	35	216.5	0	Regular
+P00090	2025-11-23	domingo	A	Noche	Vegetariana	12.3	29.6	207.5	0	Bueno
+P00091	2025-09-24	miércoles	A	Tarde	Pollo BBQ	11.5	20.8	203.9	0	Bueno
+P00092	2025-04-28	lunes	A	Tarde	Vegetariana	12.2	28.1	216.1	0	Bueno
+P00093	2025-11-25	martes	A	Noche	Vegetariana	13.6	25.4	218.9	0	Bueno
+P00094	2025-07-05	sábado	A	Noche	Pollo BBQ	10.4	24	211.1	0	Bueno
+P00095	2025-09-07	domingo	A	Noche	Hawaiana	11.7	25.5	214.9	0	Bueno
+P00096	2025-06-06	viernes	A	Tarde	Vegetariana	16	29	207.4	0	Regular
+P00097	2025-04-19	sábado	B	Tarde	Pollo BBQ	11.3	28	203.1	0	Bueno
+P00098	2025-08-22	viernes	B	Tarde	Pepperoni	12	24	214.2	0	Bueno
+P00099	2025-12-16	martes	A	Tarde	Hawaiana	12.7	26.9	208.3	0	Bueno
+P00100	2025-04-15	martes	B	Noche	Vegetariana	9.1	18	210.5	1	Bueno
+P00101	2025-10-15	miércoles	A	Mañana	Hawaiana	15.2	34.7	202.5	1	Bueno
+P00102	2025-07-26	sábado	A	Noche	Hawaiana	11	21.6	207.4	0	Bueno
+P00103	2025-06-20	viernes	A	Tarde	Vegetariana	11.3	29.9	210.9	1	Bueno
+P00104	2025-02-02	domingo	A	Noche	Hawaiana	19	31.7	213.2	0	Regular
+P00105	2025-02-09	domingo	A	Noche	Pepperoni	11.3	26.1	206.9	0	Bueno
+P00106	2025-09-16	martes	A	Tarde	Pollo BBQ	12.2	25.6	215.1	0	Bueno
+P00107	2025-12-16	martes	A	Tarde	Pepperoni	11.9	25.5	202.1	0	Bueno
+P00108	2025-12-14	domingo	A	Tarde	Pepperoni	12	41.8	207.5	0	Malo
+P00109	2025-10-05	domingo	A	Tarde	Pepperoni	11	42.6	205.4	0	Malo
+P00110	2025-11-11	martes	A	Mañana	Hawaiana	13.4	28	213.6	1	Bueno
+P00111	2025-08-08	viernes	B	Tarde	Vegetariana	8.6	21	222.4	0	Bueno
+P00112	2025-03-19	miércoles	A	Noche	Vegetariana	19	28.8	207	0	Regular
+P00113	2025-11-16	domingo	A	Noche	Hawaiana	18	26.4	218.7	0	Regular
+P00114	2025-07-13	domingo	A	Tarde	Hawaiana	13.8	29.2	225	0	Bueno
+P00115	2025-02-14	viernes	A	Noche	Vegetariana	15	35	217.4	0	Regular
+P00116	2025-10-26	domingo	A	Tarde	Pepperoni	11.1	22.3	208.8	0	Bueno
+P00117	2025-12-15	lunes	A	Noche	Pepperoni	13.2	21.9	207.7	0	Bueno
+P00118	2025-07-01	martes	A	Noche	Pepperoni	14.4	28	203.3	1	Bueno
+P00119	2025-03-28	viernes	A	Noche	Hawaiana	11.2	20.8	215.1	0	Bueno
+P00120	2025-12-21	domingo	A	Tarde	Pepperoni	19	34	207.1	0	Regular
+P00121	2025-04-06	domingo	A	Noche	Hawaiana	16.5	21.4	205.6	0	Bueno
+P00122	2025-05-03	sábado	A	Tarde	Hawaiana	7.6	25.8	218.2	1	Bueno
+P00123	2025-02-11	martes	A	Noche	Vegetariana	17	39	207.2	0	Malo
+P00124	2025-09-27	sábado	A	Tarde	Pepperoni	12.2	20.9	215.3	0	Bueno
+P00125	2025-07-01	martes	A	Noche	Hawaiana	11.4	21.1	206	2	Bueno
+P00126	2025-12-15	lunes	A	Tarde	Vegetariana	11.5	32.6	212.4	0	Bueno
+P00127	2025-04-06	domingo	A	Tarde	Pollo BBQ	14.7	30.1	212	0	Regular
+P00128	2025-01-12	domingo	A	Tarde	Pepperoni	18	27.6	208.4	0	Regular
+P00129	2025-02-16	domingo	A	Tarde	Vegetariana	15.9	22.3	220.2	0	Regular
+P00130	2025-09-07	domingo	A	Tarde	Hawaiana	13.9	19.4	210.8	0	Bueno
+P00131	2025-05-22	jueves	B	Tarde	Pollo BBQ	14.1	28	216.6	0	Bueno
+P00132	2025-08-02	sábado	A	Tarde	Hawaiana	12.8	29.1	201.3	0	Bueno
+P00133	2025-05-13	martes	A	Mañana	Vegetariana	11.7	24.4	210.3	0	Regular
+P00134	2025-07-29	martes	A	Noche	Pollo BBQ	18	26.9	202.2	0	Regular
+P00135	2025-05-09	viernes	A	Tarde	Hawaiana	12.9	32.2	203.8	0	Bueno
+P00136	2025-08-18	lunes	A	Tarde	Pepperoni	12.9	40.2	202.9	0	Bueno
+P00137	2025-03-07	viernes	B	Noche	Vegetariana	11.5	22.3	209.8	0	Bueno
+P00138	2025-12-16	martes	A	Noche	Hawaiana	9.8	24.6	209.1	0	Bueno
+P00139	2025-03-30	domingo	A	Noche	Vegetariana	15	22.4	203	0	Regular
+P00140	2025-12-01	lunes	A	Tarde	Hawaiana	10.9	23.2	216.1	0	Bueno
+P00141	2025-03-16	domingo	A	Mañana	Vegetariana	13.5	29	210.1	0	Bueno
+P00142	2025-07-11	viernes	A	Tarde	Pepperoni	16.7	27.9	210.7	0	Bueno
+P00143	2025-03-09	domingo	B	Tarde	Pepperoni	10.7	30.3	190.3	0	Bueno
+P00144	2025-06-26	jueves	A	Mañana	Vegetariana	8.9	21.6	213.8	0	Bueno
+P00145	2025-05-26	lunes	A	Tarde	Hawaiana	9.9	16.6	203.9	0	Bueno
+P00146	2025-07-06	domingo	A	Noche	Pollo BBQ	15	27	204.6	1	Regular
+P00147	2025-04-13	domingo	A	Tarde	Hawaiana	12.3	30.1	202.6	0	Bueno
+P00148	2025-01-14	martes	A	Noche	Hawaiana	21	37	206.9	1	Malo
+P00149	2025-01-13	lunes	A	Noche	Pepperoni	11.5	26.6	212.4	0	Bueno
+P00150	2025-11-15	sábado	A	Noche	Hawaiana	12.3	26.9	211.3	0	Bueno
+P00151	2025-01-03	viernes	A	Noche	Hawaiana	14.2	30.1	198.1	0	Bueno
+P00152	2025-11-23	domingo	A	Tarde	Vegetariana	18	27	200.1	1	Regular
+P00153	2025-03-11	martes	A	Mañana	Pollo BBQ	13.4	30.7	203.8	1	Bueno
+P00154	2025-03-03	lunes	A	Noche	Pollo BBQ	13.3	33.3	201.5	0	Bueno
+P00155	2025-09-24	miércoles	A	Tarde	Vegetariana	13.7	33.4	210.5	0	Bueno
+P00156	2025-11-10	lunes	B	Noche	Pollo BBQ	10.8	28.3	218.7	0	Regular
+P00157	2025-01-05	domingo	A	Noche	Vegetariana	13.3	21.8	205.3	0	Bueno
+P00158	2025-05-04	domingo	A	Tarde	Pollo BBQ	20	27	203.1	0	Regular
+P00159	2025-08-31	domingo	A	Tarde	Hawaiana	10.9	22.5	209.5	0	Bueno
+P00160	2025-09-13	sábado	A	Noche	Pollo BBQ	18.4	33.2	212.3	1	Bueno
+P00161	2025-07-27	domingo	A	Mañana	Vegetariana	21	34.1	208.2	0	Malo
+P00162	2025-03-01	sábado	A	Mañana	Hawaiana	19	39.5	212.6	0	Malo
+P00163	2025-12-16	martes	A	Noche	Hawaiana	11.9	27.1	223.1	0	Bueno
+P00164	2025-08-26	martes	A	Noche	Vegetariana	12.6	19.1	207.6	0	Bueno
+P00165	2025-11-14	viernes	A	Tarde	Pepperoni	11.3	26.3	209.4	0	Bueno
+P00166	2025-11-30	domingo	A	Tarde	Vegetariana	21	31.7	201.2	1	Malo
+P00167	2025-01-05	domingo	B	Tarde	Vegetariana	14	26.2	212.9	1	Bueno
+P00168	2025-04-13	domingo	A	Tarde	Vegetariana	16.1	31.9	217.4	0	Bueno
+P00169	2025-08-23	sábado	A	Tarde	Pollo BBQ	10.9	29.9	213	0	Regular
+P00170	2025-12-13	sábado	A	Noche	Pepperoni	11.8	17.5	202.3	0	Bueno
+P00171	2025-10-04	sábado	A	Noche	Pepperoni	13.3	24.9	210.5	0	Regular
+P00172	2025-05-04	domingo	A	Tarde	Hawaiana	15.8	32.2	206.6	0	Bueno
+P00173	2025-05-30	viernes	A	Noche	Vegetariana	13	31.2	211.3	0	Malo
+P00174	2025-03-31	lunes	A	Noche	Hawaiana	12.2	21.5	218.1	0	Bueno
+P00175	2025-09-11	jueves	A	Tarde	Hawaiana	12.1	27.1	200.7	0	Bueno
+P00176	2025-12-25	jueves	A	Noche	Hawaiana	10.4	29.5	227.8	0	Bueno
+P00177	2025-06-29	domingo	A	Noche	Hawaiana	11.4	35	208.4	0	Bueno
+P00178	2025-10-10	viernes	A	Noche	Vegetariana	12.7	28.7	206.6	0	Bueno
+P00179	2025-08-09	sábado	A	Tarde	Vegetariana	11	26.2	214.4	0	Bueno
+P00180	2025-10-28	martes	A	Tarde	Vegetariana	10.1	31.6	202.3	1	Malo
+P00181	2025-01-14	martes	A	Tarde	Hawaiana	10.4	17.1	217.3	0	Bueno
+P00182	2025-03-25	martes	A	Noche	Hawaiana	11.6	21.1	210	1	Bueno
+P00183	2025-07-10	jueves	A	Mañana	Vegetariana	12.6	18.1	220.6	0	Bueno
+P00184	2025-10-27	lunes	A	Noche	Pollo BBQ	12.7	27.5	200.1	1	Regular
+P00185	2025-03-12	miércoles	A	Tarde	Vegetariana	13.3	31.6	206.2	0	Malo
+P00186	2025-05-03	sábado	A	Tarde	Pollo BBQ	14.6	25.2	208.6	0	Regular
+P00187	2025-09-03	miércoles	A	Tarde	Hawaiana	9.1	25.1	214.4	0	Bueno
+P00188	2025-12-28	domingo	A	Tarde	Hawaiana	10	30.9	198.9	0	Regular
+P00189	2025-07-05	sábado	A	Tarde	Hawaiana	11.8	24.1	205.3	0	Bueno
+P00190	2025-07-18	viernes	A	Noche	Vegetariana	12.5	25.5	210.8	1	Bueno
+P00191	2025-07-19	sábado	A	Noche	Pollo BBQ	14.2	39.9	200.5	0	Regular
+P00192	2025-05-26	lunes	B	Tarde	Vegetariana	7.8	21.9	212.4	0	Bueno
+P00193	2025-10-18	sábado	A	Tarde	Pepperoni	13.9	32.5	209.9	0	Regular
+P00194	2025-05-12	lunes	A	Noche	Pollo BBQ	11.4	29.5	211.4	1	Regular
+P00195	2025-08-29	viernes	A	Noche	Vegetariana	15.9	23.4	218.7	0	Bueno
+P00196	2025-06-06	viernes	A	Tarde	Pepperoni	13.4	30.3	216.6	0	Bueno
+P00197	2025-12-09	martes	A	Tarde	Hawaiana	12	24	218.4	0	Bueno
+P00198	2025-06-10	martes	A	Mañana	Hawaiana	11.5	30	216.5	0	Regular
+P00199	2025-11-17	lunes	A	Tarde	Pepperoni	14.6	32.7	209.4	0	Bueno
+P00200	2025-02-16	domingo	A	Tarde	Vegetariana	13.6	28.6	216.3	1	Regular
+P00201	2025-07-29	martes	A	Noche	Vegetariana	11.7	24.5	218.2	0	Regular
+P00202	2025-03-11	martes	A	Mañana	Pollo BBQ	10.9	26.9	209.9	0	Bueno
+P00203	2025-12-14	domingo	A	Tarde	Pepperoni	15.3	33.2	217.4	1	Regular
+P00204	2025-06-21	sábado	B	Noche	Pepperoni	13.3	26	199.5	1	Bueno
+P00205	2025-07-16	miércoles	A	Tarde	Vegetariana	11.9	22.9	214	0	Regular
+P00206	2025-09-03	miércoles	A	Mañana	Hawaiana	14	24	198.6	0	Regular
+P00207	2025-12-18	jueves	A	Tarde	Pepperoni	12.6	26.7	208.1	0	Bueno
+P00208	2025-07-09	miércoles	B	Mañana	Pollo BBQ	13.2	25	205.4	0	Regular
+P00209	2025-08-25	lunes	A	Noche	Hawaiana	12.1	27.4	209.6	0	Bueno
+P00210	2025-08-22	viernes	A	Noche	Pepperoni	10.8	29.7	208.9	0	Bueno
+P00211	2025-06-25	miércoles	A	Mañana	Hawaiana	12.1	31.5	202.1	2	Bueno
+P00212	2025-11-11	martes	A	Noche	Hawaiana	14.7	31.7	206.9	0	Bueno
+P00213	2025-09-16	martes	A	Mañana	Hawaiana	14.1	25.7	207.3	0	Bueno
+P00214	2025-05-10	sábado	A	Noche	Pepperoni	15.5	33.7	199.7	0	Bueno
+P00215	2025-12-24	miércoles	A	Noche	Pollo BBQ	12.4	25.3	199.7	0	Bueno
+P00216	2025-11-26	miércoles	A	Tarde	Pepperoni	11.7	35	205.9	0	Bueno
+P00217	2025-11-13	jueves	A	Noche	Pollo BBQ	16.3	39.9	207.1	1	Malo
+P00218	2025-10-21	martes	A	Mañana	Pepperoni	13.7	27.5	215.9	0	Bueno
+P00219	2025-08-03	domingo	A	Tarde	Vegetariana	9.9	21.9	212.1	0	Bueno
+P00220	2025-01-11	sábado	A	Noche	Vegetariana	12.2	24.4	205.2	0	Bueno
+P00221	2025-04-06	domingo	A	Noche	Vegetariana	7.1	13.1	226.1	0	Bueno
+P00222	2025-09-28	domingo	A	Tarde	Pollo BBQ	14.2	36.5	225.7	0	Regular
+P00223	2025-05-11	domingo	A	Noche	Pollo BBQ	10.8	23.8	196.6	0	Bueno
+P00224	2025-07-20	domingo	A	Tarde	Pepperoni	12.6	23.1	202.4	2	Malo
+P00225	2025-09-11	jueves	A	Tarde	Pollo BBQ	17.2	32.7	200.1	0	Malo
+P00226	2025-06-08	domingo	A	Tarde	Pepperoni	9.3	22.3	207.7	0	Bueno
+P00227	2025-12-13	sábado	A	Mañana	Vegetariana	13.2	24.4	214.9	0	Bueno
+P00228	2025-10-24	viernes	A	Tarde	Vegetariana	13.6	26.7	217.4	0	Regular
+P00229	2025-05-02	viernes	A	Noche	Vegetariana	14.8	34	213.8	0	Bueno
+P00230	2025-09-12	viernes	A	Noche	Pollo BBQ	10.1	25.9	195.2	0	Bueno
+P00231	2025-02-02	domingo	A	Tarde	Pollo BBQ	14.8	33.9	205.1	0	Regular
+P00232	2025-01-17	viernes	A	Tarde	Pepperoni	12.3	30.9	211.4	0	Regular
+P00233	2025-06-10	martes	A	Noche	Hawaiana	14.3	14.7	208.1	0	Bueno
+P00234	2025-08-30	sábado	A	Noche	Hawaiana	12.6	25.2	214.7	0	Regular
+P00235	2025-05-11	domingo	A	Noche	Vegetariana	14.9	29.5	222.3	1	Bueno
+P00236	2025-04-04	viernes	A	Tarde	Pepperoni	11.8	33.3	205.6	0	Bueno
+P00237	2025-10-20	lunes	A	Tarde	Vegetariana	12.9	30.3	208.6	2	Bueno
+P00238	2025-11-28	viernes	A	Tarde	Pollo BBQ	7.4	25.2	213.9	0	Bueno
+P00239	2025-01-01	miércoles	A	Noche	Vegetariana	17.3	32.5	203.6	0	Regular
+P00240	2025-08-06	miércoles	B	Tarde	Vegetariana	11.2	32	208.3	1	Regular
+P00241	2025-10-13	lunes	A	Noche	Pepperoni	12.4	22.9	223.6	0	Bueno
+P00242	2025-05-11	domingo	A	Tarde	Hawaiana	14.9	31.4	198.9	0	Bueno
+P00243	2025-02-09	domingo	A	Tarde	Pepperoni	12.9	32.3	210.2	0	Regular
+P00244	2025-06-14	sábado	A	Noche	Vegetariana	10.4	29.2	214.6	2	Regular
+P00245	2025-08-17	domingo	A	Tarde	Pollo BBQ	14.4	36.1	217.4	0	Bueno
+P00246	2025-02-11	martes	A	Noche	Pollo BBQ	10	30.8	208.5	0	Regular
+P00247	2025-08-26	martes	A	Mañana	Pollo BBQ	11.6	26.4	203.8	0	Bueno
+P00248	2025-09-23	martes	A	Tarde	Vegetariana	12	16.8	208.5	0	Bueno
+P00249	2025-05-11	domingo	A	Noche	Hawaiana	8.3	21.9	197.9	1	Regular
+P00250	2025-05-30	viernes	A	Noche	Hawaiana	13	31.4	214.3	0	Bueno
+P00251	2025-07-12	sábado	A	Tarde	Vegetariana	12.4	26.7	214	0	Bueno
+P00252	2025-09-12	viernes	A	Tarde	Pollo BBQ	11.6	23.5	197.6	0	Bueno
+P00253	2025-01-25	sábado	B	Mañana	Vegetariana	10.4	25	210.9	0	Regular
+P00254	2025-12-02	martes	A	Tarde	Vegetariana	9.4	16.6	220.8	0	Bueno
+P00255	2025-12-28	domingo	A	Mañana	Pepperoni	10.4	25.3	212.1	0	Bueno
+P00256	2025-10-28	martes	A	Tarde	Vegetariana	11.7	22.1	208.6	0	Bueno
+P00257	2025-12-31	miércoles	A	Tarde	Hawaiana	15.2	23.7	211.2	0	Bueno
+P00258	2025-12-16	martes	B	Tarde	Pollo BBQ	13.2	25	205.5	1	Bueno
+P00259	2025-09-07	domingo	A	Tarde	Pollo BBQ	13.1	26.8	216.4	0	Bueno
+P00260	2025-08-28	jueves	A	Noche	Vegetariana	10.8	26.5	210.4	0	Regular
+P00261	2025-07-25	viernes	A	Tarde	Hawaiana	13.9	34.1	213.1	0	Bueno
+P00262	2025-03-26	miércoles	A	Mañana	Hawaiana	13	27.5	214.4	0	Bueno
+P00263	2025-05-24	sábado	A	Noche	Vegetariana	13.9	30.9	214.1	0	Bueno
+P00264	2025-10-11	sábado	A	Noche	Hawaiana	11.8	27.4	200.3	0	Bueno
+P00265	2025-06-08	domingo	A	Tarde	Vegetariana	13.1	28	204.5	1	Bueno
+P00266	2025-01-21	martes	A	Tarde	Hawaiana	11.2	28.4	223.3	0	Bueno
+P00267	2025-04-02	miércoles	A	Tarde	Vegetariana	9.5	17.3	202.8	0	Bueno
+P00268	2025-05-04	domingo	B	Tarde	Vegetariana	15.5	24	218.6	0	Regular
+P00269	2025-12-09	martes	A	Tarde	Vegetariana	12.1	31.6	201	0	Malo
+P00270	2025-04-05	sábado	A	Noche	Pepperoni	12.9	25.8	219	1	Regular
+P00271	2025-11-23	domingo	A	Tarde	Pepperoni	15.7	28.5	194.3	2	Bueno
+P00272	2025-12-05	viernes	A	Noche	Hawaiana	12.4	24.2	221	0	Bueno
+P00273	2025-04-15	martes	A	Tarde	Pepperoni	13.7	24.8	216.5	0	Regular
+P00274	2025-06-27	viernes	B	Noche	Vegetariana	11.9	26	198.6	0	Regular
+P00275	2025-04-01	martes	A	Mañana	Hawaiana	13.6	30.2	204.8	1	Regular
+P00276	2025-10-12	domingo	A	Noche	Pepperoni	10.4	22.8	220.4	1	Regular
+P00277	2025-05-17	sábado	A	Tarde	Pollo BBQ	10.3	24.8	221.2	0	Regular
+P00278	2025-09-07	domingo	A	Tarde	Hawaiana	12.1	19.9	214.2	0	Bueno
+P00279	2025-09-20	sábado	A	Noche	Pepperoni	14.2	27.3	207.5	0	Bueno
+P00280	2025-04-19	sábado	B	Noche	Hawaiana	11.5	20.8	208.6	1	Bueno
+P00281	2025-04-25	viernes	A	Tarde	Pollo BBQ	9	24.2	203.4	0	Bueno
+P00282	2025-04-25	viernes	A	Noche	Hawaiana	12.9	21.1	202.6	0	Regular
+P00283	2025-05-01	jueves	A	Noche	Pollo BBQ	15.8	31.8	193	0	Bueno
+P00284	2025-10-11	sábado	B	Noche	Pollo BBQ	14	22	211.8	0	Bueno
+P00285	2025-03-11	martes	A	Tarde	Pollo BBQ	10.9	29.2	202.2	1	Bueno
+P00286	2025-04-13	domingo	A	Tarde	Vegetariana	14	29.5	219.3	0	Bueno
+P00287	2025-08-23	sábado	A	Tarde	Pepperoni	12	23.3	191.7	0	Bueno
+P00288	2025-02-21	viernes	A	Tarde	Vegetariana	12.6	26.7	209.8	0	Regular
+P00289	2025-05-04	domingo	A	Tarde	Hawaiana	10.3	30.2	223.1	1	Bueno
+P00290	2025-06-12	jueves	A	Mañana	Vegetariana	14.2	28.1	208.7	0	Bueno
+P00291	2025-08-06	miércoles	B	Noche	Hawaiana	8.5	20	199.7	0	Regular
+P00292	2025-05-20	martes	A	Noche	Pollo BBQ	10.3	18.2	205.9	0	Bueno
+P00293	2025-01-19	domingo	A	Noche	Pepperoni	11.6	34.1	206.6	0	Bueno
+P00294	2025-04-22	martes	A	Mañana	Hawaiana	13.1	25.1	203.2	0	Bueno
+P00295	2025-06-01	domingo	A	Noche	Pepperoni	12.7	26.2	217.3	0	Bueno
+P00296	2025-01-20	lunes	A	Noche	Vegetariana	12.8	22.6	209.9	0	Bueno
+P00297	2025-07-27	domingo	A	Noche	Pepperoni	11.7	27.4	216.1	1	Bueno
+P00298	2025-10-12	domingo	A	Noche	Vegetariana	10.6	24.7	214	0	Regular
+P00299	2025-03-09	domingo	A	Tarde	Hawaiana	16.1	32.7	204	0	Bueno
+P00300	2025-05-30	viernes	A	Mañana	Hawaiana	10.2	28	205.7	0	Bueno
+P00301	2025-03-16	domingo	A	Noche	Hawaiana	11.7	28.1	215.5	0	Regular
+P00302	2025-04-26	sábado	A	Mañana	Pepperoni	13.2	24	208.7	1	Bueno
+P00303	2025-03-28	viernes	B	Noche	Pollo BBQ	11	22	220	1	Bueno
+P00304	2025-04-21	lunes	A	Tarde	Vegetariana	13.8	26.2	211.4	1	Bueno
+P00305	2025-12-09	martes	A	Noche	Pepperoni	9.5	25.6	207.1	2	Regular
+P00306	2025-03-08	sábado	A	Mañana	Hawaiana	15.2	32.9	216.7	0	Bueno
+P00307	2025-02-13	jueves	A	Tarde	Vegetariana	11.1	26.7	210.8	0	Regular
+P00308	2025-08-26	martes	A	Tarde	Vegetariana	16.3	30.8	219.1	0	Bueno
+P00309	2025-03-13	jueves	A	Mañana	Vegetariana	11.3	20.7	202.6	1	Regular
+P00310	2025-07-08	martes	A	Noche	Pollo BBQ	9.5	22.7	223.3	0	Bueno
+P00311	2025-04-03	jueves	A	Noche	Vegetariana	10.5	29.3	210.1	0	Bueno
+P00312	2025-06-26	jueves	A	Tarde	Hawaiana	14.5	22.1	205.7	0	Bueno
+P00313	2025-08-09	sábado	A	Mañana	Pollo BBQ	14	31.9	205.7	0	Regular
+P00314	2025-05-16	viernes	A	Mañana	Pollo BBQ	10.6	26.8	212.7	1	Bueno
+P00315	2025-07-25	viernes	A	Noche	Hawaiana	12.8	26.5	210.6	0	Regular
+P00316	2025-04-22	martes	A	Tarde	Vegetariana	11.8	18.5	198.6	0	Bueno
+P00317	2025-10-21	martes	A	Mañana	Vegetariana	10.8	24.5	200.3	0	Regular
+P00318	2025-03-02	domingo	A	Noche	Vegetariana	10.6	20.2	214.7	1	Bueno
+P00319	2025-10-26	domingo	A	Noche	Pepperoni	13.6	25.6	197.2	0	Bueno
+P00320	2025-04-05	sábado	A	Noche	Hawaiana	7.4	20.7	220	0	Bueno
+P00321	2025-12-02	martes	A	Tarde	Hawaiana	11.2	20.3	203.7	0	Bueno
+P00322	2025-02-14	viernes	A	Mañana	Pollo BBQ	11.6	23.5	209.7	0	Bueno
+P00323	2025-11-23	domingo	B	Noche	Pollo BBQ	11.1	21.4	208.2	0	Bueno
+P00324	2025-09-17	miércoles	A	Mañana	Pollo BBQ	12.5	24.9	216.9	0	Regular
+P00325	2025-06-28	sábado	A	Noche	Vegetariana	11.5	29.6	203.9	1	Bueno
+P00326	2025-03-25	martes	B	Mañana	Pollo BBQ	11.1	28	203.1	0	Bueno
+P00327	2025-05-06	martes	A	Mañana	Hawaiana	13.7	25.1	208	0	Bueno
+P00328	2025-11-11	martes	A	Noche	Hawaiana	13.7	37	200.2	0	Regular
+P00329	2025-01-16	jueves	A	Noche	Vegetariana	11.3	22.1	216	2	Regular
+P00330	2025-09-29	lunes	A	Tarde	Vegetariana	11	19	214.5	0	Bueno
+P00331	2025-10-31	viernes	A	Tarde	Vegetariana	11.7	23.5	195.8	0	Regular
+P00332	2025-07-22	martes	A	Tarde	Pollo BBQ	14.6	34.1	215.2	1	Bueno
+P00333	2025-07-05	sábado	A	Tarde	Pollo BBQ	12.8	31.6	202.6	0	Malo
+P00334	2025-09-07	domingo	A	Tarde	Vegetariana	10.8	21.9	210.1	1	Bueno
+P00335	2025-11-10	lunes	B	Tarde	Pepperoni	13.4	24.4	211	1	Bueno
+P00336	2025-03-29	sábado	A	Noche	Pollo BBQ	11.6	26.8	213.6	0	Bueno
+P00337	2025-01-16	jueves	A	Noche	Hawaiana	12.5	22.4	201.6	0	Bueno
+P00338	2025-10-29	miércoles	A	Noche	Pollo BBQ	10.9	23.9	206.4	0	Bueno
+P00339	2025-08-17	domingo	A	Noche	Pepperoni	12.3	20.1	209.9	0	Bueno
+P00340	2025-02-09	domingo	A	Noche	Pepperoni	10.4	25.7	203.7	1	Bueno
+P00341	2025-06-02	lunes	A	Noche	Hawaiana	10.2	25.9	204.2	0	Bueno
+P00342	2025-07-22	martes	A	Noche	Pepperoni	10.8	30.1	197.6	0	Regular
+P00343	2025-04-16	miércoles	A	Noche	Vegetariana	11.2	33.3	215	0	Regular
+P00344	2025-01-10	viernes	A	Tarde	Pepperoni	15.2	30.4	201.6	0	Bueno
+P00345	2025-03-24	lunes	A	Tarde	Pollo BBQ	14.6	17.5	222.9	0	Bueno
+P00346	2025-04-24	jueves	A	Noche	Vegetariana	10.9	22.1	215.7	0	Bueno
+P00347	2025-08-12	martes	A	Tarde	Pollo BBQ	13.7	20.9	212.7	1	Regular
+P00348	2025-11-02	domingo	A	Tarde	Pepperoni	12	23.6	204.8	0	Bueno
+P00349	2025-10-27	lunes	A	Noche	Pollo BBQ	12.4	31.4	211.9	0	Bueno
+P00350	2025-01-30	jueves	A	Tarde	Vegetariana	13	25.5	207.1	0	Bueno
+P00351	2025-11-10	lunes	A	Noche	Pepperoni	9.3	33.7	199.2	0	Bueno
+P00352	2025-02-11	martes	B	Tarde	Pollo BBQ	11.3	17	220.7	0	Regular
+P00353	2025-06-27	viernes	A	Mañana	Pollo BBQ	14.8	28.6	218	0	Bueno
+P00354	2025-08-28	jueves	A	Noche	Hawaiana	8.6	16.7	193.6	0	Bueno
+P00355	2025-03-21	viernes	A	Tarde	Pepperoni	9.3	25.5	208.1	0	Regular
+P00356	2025-04-11	viernes	A	Tarde	Hawaiana	14.6	35.4	189.9	0	Regular
+P00357	2025-01-24	viernes	A	Tarde	Hawaiana	10.3	24.5	212.1	0	Bueno
+P00358	2025-07-11	viernes	A	Noche	Hawaiana	13.1	25.9	219.4	0	Bueno
+P00359	2025-05-30	viernes	A	Mañana	Vegetariana	15.2	31.3	210.2	1	Regular
+P00360	2025-03-26	miércoles	A	Noche	Vegetariana	14.4	32.6	200.6	0	Regular
+P00361	2025-11-02	domingo	A	Tarde	Pollo BBQ	11	25.9	212	0	Bueno
+P00362	2025-05-18	domingo	A	Tarde	Vegetariana	12	29.3	216.7	0	Bueno
+P00363	2025-06-16	lunes	A	Tarde	Pepperoni	10.6	23.7	216.9	0	Bueno
+P00364	2025-02-19	miércoles	A	Noche	Pollo BBQ	10.8	29.6	205.8	0	Bueno
+P00365	2025-04-27	domingo	A	Noche	Hawaiana	11.5	27	217	0	Malo
+P00366	2025-11-15	sábado	A	Mañana	Pepperoni	13.1	32.1	208.2	0	Malo
+P00367	2025-11-29	sábado	A	Tarde	Hawaiana	12.2	22.4	212.9	1	Malo
+P00368	2025-10-15	miércoles	A	Noche	Vegetariana	12.6	27.8	213.7	0	Regular
+P00369	2025-10-27	lunes	A	Noche	Pepperoni	11.2	35	206.1	0	Regular
+P00370	2025-12-10	miércoles	A	Noche	Pepperoni	10.9	23.1	206.9	0	Regular
+P00371	2025-03-09	domingo	A	Tarde	Pollo BBQ	10.9	31.6	207.1	0	Bueno
+P00372	2025-01-25	sábado	B	Tarde	Pepperoni	11.8	21	200.1	0	Regular
+P00373	2025-09-06	sábado	A	Tarde	Vegetariana	11.5	25.5	213.7	0	Bueno
+P00374	2025-11-09	domingo	A	Noche	Pollo BBQ	14.9	29.2	208.2	0	Regular
+P00375	2025-02-25	martes	A	Tarde	Vegetariana	10.5	22.6	216.5	1	Bueno
+P00376	2025-01-28	martes	A	Noche	Pollo BBQ	15	36	196.9	0	Bueno
+P00377	2025-11-18	martes	A	Noche	Vegetariana	13.2	39.7	213.9	0	Regular
+P00378	2025-08-20	miércoles	A	Noche	Pollo BBQ	14.2	28.8	206.9	0	Bueno
+P00379	2025-08-05	martes	A	Tarde	Hawaiana	10.5	19.4	212.5	0	Bueno
+P00380	2025-04-28	lunes	A	Noche	Pollo BBQ	12.3	27.5	222	1	Bueno
+P00381	2025-03-04	martes	A	Tarde	Pepperoni	15.2	25.6	196.5	0	Regular
+P00382	2025-06-22	domingo	A	Tarde	Vegetariana	12.3	33	212.9	1	Regular
+P00383	2025-07-28	lunes	A	Tarde	Hawaiana	13.6	31.3	206.3	0	Regular
+P00384	2025-11-10	lunes	B	Mañana	Vegetariana	11.8	26	206.3	0	Bueno
+P00385	2025-06-08	domingo	A	Mañana	Pepperoni	14.9	24.1	206	0	Malo
+P00386	2025-11-29	sábado	A	Noche	Hawaiana	13.7	28.4	193	1	Bueno
+P00387	2025-05-25	domingo	A	Tarde	Hawaiana	11.6	23.4	204.7	0	Bueno
+P00388	2025-01-27	lunes	A	Noche	Vegetariana	11.8	28.1	197.8	0	Regular
+P00389	2025-07-18	viernes	A	Noche	Pollo BBQ	14.7	29.7	198.1	0	Regular
+P00390	2025-09-25	jueves	A	Tarde	Hawaiana	12.5	23.4	206.4	0	Bueno
+P00391	2025-11-09	domingo	A	Mañana	Hawaiana	12.9	29.6	205.9	0	Bueno
+P00392	2025-12-16	martes	B	Tarde	Pollo BBQ	12.6	24	209.4	0	Regular
+P00393	2025-08-23	sábado	A	Tarde	Vegetariana	11.1	35.7	213.5	0	Bueno
+P00394	2025-02-09	domingo	A	Noche	Hawaiana	8.1	20.5	196.3	0	Bueno
+P00395	2025-07-08	martes	A	Noche	Pepperoni	11.5	30	211.8	0	Regular
+P00396	2025-11-13	jueves	A	Noche	Pollo BBQ	12.8	35.4	210.9	0	Malo
+P00397	2025-09-19	viernes	A	Noche	Hawaiana	10.9	15	205	0	Bueno
+P00398	2025-01-24	viernes	A	Tarde	Hawaiana	15.8	23.5	215	0	Bueno
+P00399	2025-08-29	viernes	A	Noche	Vegetariana	10.8	28.7	215.8	0	Regular
+P00400	2025-05-12	lunes	A	Noche	Hawaiana	13.1	29.3	206.3	0	Bueno
+P00401	2025-07-25	viernes	A	Tarde	Pollo BBQ	12.9	32.1	211.7	1	Malo
+P00402	2025-02-15	sábado	A	Noche	Vegetariana	12.3	21.6	200.1	1	Bueno
+P00403	2025-07-04	viernes	A	Tarde	Pepperoni	13.3	25.6	206.4	0	Bueno
+P00404	2025-09-19	viernes	A	Mañana	Hawaiana	12.1	22.1	209.6	0	Bueno
+P00405	2025-09-13	sábado	A	Tarde	Pepperoni	13.7	27	204.5	0	Regular
+P00406	2025-08-17	domingo	A	Noche	Hawaiana	9.7	30.3	210.6	1	Regular
+P00407	2025-09-21	domingo	A	Noche	Pepperoni	12.4	28.3	204.2	1	Bueno
+P00408	2025-01-29	miércoles	A	Noche	Vegetariana	11.2	31.6	204.1	0	Regular
+P00409	2025-01-05	domingo	A	Tarde	Vegetariana	11.6	32.3	209.9	0	Bueno
+P00410	2025-04-12	sábado	A	Noche	Pepperoni	12.6	31.1	213.7	0	Regular
+P00411	2025-01-26	domingo	A	Noche	Pepperoni	13.8	23.3	201.1	1	Bueno
+P00412	2025-01-19	domingo	A	Tarde	Hawaiana	9.2	22.4	215.3	0	Bueno
+P00413	2025-07-19	sábado	A	Mañana	Vegetariana	7.4	30.1	219.8	1	Regular
+P00414	2025-02-15	sábado	A	Tarde	Hawaiana	11.7	27.3	218.8	0	Bueno
+P00415	2025-06-24	martes	A	Tarde	Pepperoni	10.6	24.2	223.5	0	Bueno
+P00416	2025-11-02	domingo	A	Noche	Pepperoni	9.4	24.4	210.5	1	Bueno
+P00417	2025-03-28	viernes	A	Noche	Pepperoni	14.5	19.3	204.9	0	Regular
+P00418	2025-12-28	domingo	A	Noche	Pollo BBQ	14.2	33.1	213.6	0	Regular
+P00419	2025-11-20	jueves	B	Noche	Pepperoni	12.1	25	212.6	0	Regular
+P00420	2025-07-20	domingo	A	Mañana	Pollo BBQ	12.2	26.5	212.5	2	Bueno
+P00421	2025-03-01	sábado	A	Noche	Pollo BBQ	8.3	25	205.5	0	Bueno
+P00422	2025-03-23	domingo	A	Mañana	Vegetariana	14	29.2	209.2	0	Bueno
+P00423	2025-07-18	viernes	A	Tarde	Pepperoni	12.1	31.9	213.3	1	Regular
+P00424	2025-04-23	miércoles	A	Noche	Hawaiana	9.5	20.9	212.3	0	Bueno
+P00425	2025-02-02	domingo	A	Noche	Hawaiana	11.1	24	215.4	0	Bueno
+P00426	2025-02-07	viernes	B	Tarde	Pepperoni	9.6	18.1	205.6	0	Regular
+P00427	2025-12-14	domingo	A	Tarde	Vegetariana	10.9	21.5	202.6	0	Bueno
+P00428	2025-06-06	viernes	A	Noche	Pepperoni	9.4	25.2	214	0	Bueno
+P00429	2025-07-12	sábado	A	Noche	Vegetariana	8.9	29.3	208.2	0	Bueno
+P00430	2025-03-29	sábado	A	Tarde	Hawaiana	13.1	27.6	208.4	0	Bueno
+P00431	2025-10-03	viernes	A	Noche	Pepperoni	12.8	23.8	217.6	0	Bueno
+P00432	2025-05-25	domingo	A	Mañana	Pepperoni	8.1	16	202	1	Bueno
+P00433	2025-08-12	martes	A	Tarde	Vegetariana	12.3	14.1	219.8	1	Bueno
+P00434	2025-04-22	martes	A	Tarde	Pepperoni	10.6	28.3	215.2	0	Regular
+P00435	2025-10-15	miércoles	A	Noche	Hawaiana	12.6	27.7	196.9	0	Bueno
+P00436	2025-10-17	viernes	B	Tarde	Hawaiana	11.8	30.8	214.3	0	Bueno
+P00437	2025-02-13	jueves	A	Tarde	Hawaiana	11.3	31.7	223.7	0	Regular
+P00438	2025-04-01	martes	A	Tarde	Vegetariana	10.7	30.2	207.2	0	Regular
+P00439	2025-10-27	lunes	A	Noche	Pepperoni	12.6	24.6	205.8	0	Bueno
+P00440	2025-06-24	martes	A	Noche	Pepperoni	16.5	28	199.5	0	Bueno
+P00441	2025-04-22	martes	A	Tarde	Pepperoni	12.7	27.5	215.1	0	Bueno
+P00442	2025-01-07	martes	A	Mañana	Vegetariana	11.8	25.2	211.9	0	Regular
+P00443	2025-09-25	jueves	A	Tarde	Hawaiana	10.2	29.9	225.1	0	Bueno
+P00444	2025-08-12	martes	A	Noche	Pollo BBQ	14.2	34	215.8	0	Regular
+P00445	2025-01-18	sábado	A	Noche	Hawaiana	10.9	21.6	203.1	0	Bueno
+P00446	2025-05-26	lunes	A	Mañana	Vegetariana	11.4	31.8	212.8	0	Regular
+P00447	2025-04-06	domingo	A	Noche	Pepperoni	10.3	36.4	220.4	0	Bueno
+P00448	2025-01-10	viernes	A	Tarde	Pepperoni	14.4	26.7	220.4	1	Bueno
+P00449	2025-10-11	sábado	A	Tarde	Pollo BBQ	12.7	30.6	204.6	0	Bueno
+P00450	2025-09-02	martes	B	Tarde	Pepperoni	11.7	25.5	209.2	0	Bueno
+P00451	2025-03-14	viernes	B	Noche	Pollo BBQ	14.5	29	212.4	0	Bueno
+P00452	2025-03-02	domingo	A	Tarde	Hawaiana	15.8	37.9	201.5	1	Bueno
+P00453	2025-01-01	miércoles	A	Tarde	Pepperoni	13.5	25.2	201.2	0	Regular
+P00454	2025-11-09	domingo	A	Noche	Pollo BBQ	10.9	18.3	207.8	0	Bueno
+P00455	2025-09-09	martes	A	Tarde	Hawaiana	13.2	28.6	201.7	0	Bueno
+P00456	2025-01-05	domingo	A	Tarde	Pepperoni	13.6	33.2	223.9	0	Regular
+P00457	2025-02-11	martes	A	Tarde	Hawaiana	14	29.8	204.3	0	Regular
+P00458	2025-03-25	martes	A	Mañana	Pollo BBQ	14.5	38.4	205.9	0	Regular
+P00459	2025-03-24	lunes	A	Mañana	Pepperoni	16.9	32.3	206	1	Bueno
+P00460	2025-08-24	domingo	A	Noche	Vegetariana	13.5	30.7	212.7	0	Bueno
+P00461	2025-10-25	sábado	A	Noche	Pepperoni	13	30	211.8	0	Bueno
+P00462	2025-11-14	viernes	A	Tarde	Hawaiana	12.8	27.3	213.6	0	Bueno
+P00463	2025-04-26	sábado	A	Tarde	Pollo BBQ	10.7	24.2	229.9	0	Bueno
+P00464	2025-07-27	domingo	A	Noche	Hawaiana	10.1	19.6	208.2	0	Regular
+P00465	2025-04-19	sábado	A	Noche	Hawaiana	13.8	26.1	209.2	0	Bueno
+P00466	2025-02-11	martes	A	Noche	Vegetariana	14	34.8	208.2	0	Bueno
+P00467	2025-08-22	viernes	A	Tarde	Hawaiana	8.2	19.8	200	0	Bueno
+P00468	2025-06-24	martes	A	Noche	Hawaiana	14.8	26.6	203.5	0	Bueno
+P00469	2025-11-13	jueves	B	Noche	Hawaiana	14.3	25.9	205	0	Bueno
+P00470	2025-12-15	lunes	A	Mañana	Hawaiana	13.4	26.2	225.7	0	Regular
+P00471	2025-10-05	domingo	A	Tarde	Hawaiana	12.5	25.1	214	0	Bueno
+P00472	2025-09-26	viernes	A	Noche	Hawaiana	14.5	25.2	204.2	0	Bueno
+P00473	2025-07-07	lunes	A	Noche	Pollo BBQ	11.8	28.7	223.1	1	Regular
+P00474	2025-07-08	martes	A	Noche	Pollo BBQ	10.5	17	215.1	1	Bueno
+P00475	2025-11-09	domingo	A	Tarde	Vegetariana	11	28.2	195.9	2	Bueno
+P00476	2025-03-02	domingo	A	Tarde	Pepperoni	17.6	28	209.9	0	Bueno
+P00477	2025-01-09	jueves	A	Tarde	Pepperoni	12.1	27	203.8	0	Bueno
+P00478	2025-02-17	lunes	A	Mañana	Vegetariana	14.2	37.8	206.8	1	Bueno
+P00479	2025-05-23	viernes	B	Mañana	Vegetariana	10.5	18.5	205.4	0	Bueno
+P00480	2025-07-18	viernes	A	Tarde	Pepperoni	10.9	22.8	220.7	0	Bueno
+P00481	2025-10-10	viernes	A	Tarde	Pollo BBQ	12.7	30.9	201.4	0	Regular
+P00482	2025-11-27	jueves	A	Noche	Hawaiana	12.8	26.4	217.5	0	Bueno
+P00483	2025-12-04	jueves	A	Tarde	Hawaiana	12.8	27.6	204.9	1	Bueno
+P00484	2025-04-20	domingo	A	Noche	Vegetariana	11	17.8	223.9	0	Bueno
+P00485	2025-04-16	miércoles	A	Tarde	Vegetariana	12.7	29	210.3	0	Bueno
+P00486	2025-10-11	sábado	A	Noche	Pepperoni	11.1	28.2	213.7	0	Bueno
+P00487	2025-12-28	domingo	A	Noche	Pepperoni	13.6	34.1	202.5	0	Bueno
+P00488	2025-12-22	lunes	A	Tarde	Pollo BBQ	13	24.5	212.9	0	Bueno
+P00489	2025-12-26	viernes	A	Tarde	Pollo BBQ	12.9	31.3	209.7	0	Regular
+P00490	2025-05-31	sábado	A	Tarde	Vegetariana	10.4	21.2	202.5	0	Bueno
+P00491	2025-11-06	jueves	A	Noche	Pollo BBQ	10.3	25	206.6	0	Bueno
+P00492	2025-12-18	jueves	A	Mañana	Vegetariana	15.3	32.5	202.5	2	Bueno
+P00493	2025-10-29	miércoles	B	Mañana	Vegetariana	14.3	31	218.2	0	Regular
+P00494	2025-06-30	lunes	B	Mañana	Pollo BBQ	7.3	23.6	214.4	0	Regular
+P00495	2025-01-18	sábado	A	Tarde	Vegetariana	12.4	26	210.4	0	Regular
+P00496	2025-04-29	martes	B	Noche	Vegetariana	10.2	23.6	219.7	0	Regular
+P00497	2025-01-05	domingo	A	Noche	Pollo BBQ	12.4	31.4	201.9	1	Bueno
+P00498	2025-08-19	martes	A	Noche	Pepperoni	12.1	30	210.4	0	Regular
+P00499	2025-07-26	sábado	B	Mañana	Pollo BBQ	13.6	30	203.3	0	Bueno
+P00500	2025-04-23	miércoles	B	Tarde	Vegetariana	11.9	22	209.4	0	Bueno
+P00501	2025-02-18	martes	A	Tarde	Pollo BBQ	12.5	29.3	203.6	0	Bueno
+P00502	2025-02-16	domingo	A	Tarde	Pollo BBQ	12.3	29.5	204.3	0	Regular
+P00503	2025-09-27	sábado	A	Noche	Hawaiana	14	29.4	205.8	0	Bueno
+P00504	2025-09-05	viernes	A	Tarde	Pepperoni	12.7	26.4	212.2	0	Bueno
+P00505	2025-09-07	domingo	A	Tarde	Pepperoni	12.5	24.8	218.9	0	Regular
+P00506	2025-02-04	martes	A	Noche	Pollo BBQ	9.8	27.4	218.4	0	Bueno
+P00507	2025-11-10	lunes	A	Tarde	Vegetariana	12.4	30.9	211.4	0	Regular
+P00508	2025-01-14	martes	A	Noche	Hawaiana	13.1	33.1	215.2	0	Regular
+P00509	2025-07-08	martes	A	Tarde	Pollo BBQ	12.8	31.1	215.3	0	Bueno
+P00510	2025-07-05	sábado	A	Tarde	Hawaiana	12.5	23.1	213.7	0	Bueno
+P00511	2025-04-07	lunes	A	Mañana	Pollo BBQ	12	25.6	210.8	0	Regular
+P00512	2025-06-15	domingo	A	Noche	Pepperoni	11.4	21.1	205.9	0	Regular
+P00513	2025-07-11	viernes	A	Noche	Pepperoni	11.7	31.4	205.5	0	Regular
+P00514	2025-09-13	sábado	A	Mañana	Vegetariana	15.6	33.4	209.8	1	Regular
+P00515	2025-02-09	domingo	A	Noche	Pollo BBQ	10	29.8	210.4	1	Regular
+P00516	2025-03-08	sábado	A	Mañana	Pepperoni	15	28.9	187.4	0	Bueno
+P00517	2025-08-10	domingo	A	Tarde	Pollo BBQ	9.2	24.3	204.5	0	Regular
+P00518	2025-11-02	domingo	A	Noche	Pepperoni	13.9	38.8	204.7	0	Bueno
+P00519	2025-01-03	viernes	A	Mañana	Vegetariana	11.3	22.9	208.7	0	Bueno
+P00520	2025-12-21	domingo	A	Noche	Hawaiana	14	25.8	214.9	0	Bueno
+P00521	2025-05-08	jueves	A	Mañana	Hawaiana	16.3	21.4	218.1	0	Bueno
+P00522	2025-10-11	sábado	B	Tarde	Vegetariana	11.3	24.1	200.6	0	Bueno
+P00523	2025-03-02	domingo	B	Tarde	Vegetariana	8.1	30.1	215.9	0	Bueno
+P00524	2025-01-18	sábado	A	Tarde	Pepperoni	10.4	26.9	212.9	0	Regular
+P00525	2025-01-22	miércoles	A	Noche	Hawaiana	9.9	24	207.3	0	Bueno
+P00526	2025-02-15	sábado	A	Tarde	Hawaiana	10.6	29.1	214.1	0	Bueno
+P00527	2025-04-12	sábado	A	Tarde	Pepperoni	17.2	30.9	208.3	0	Regular
+P00528	2025-01-07	martes	A	Tarde	Hawaiana	16.4	34	208	0	Regular
+P00529	2025-11-08	sábado	A	Tarde	Pepperoni	13.3	27.8	216.9	0	Regular
+P00530	2025-06-29	domingo	A	Tarde	Pepperoni	13.3	26.1	202.1	0	Bueno
+P00531	2025-03-23	domingo	A	Tarde	Pepperoni	10.7	33.5	207.8	0	Bueno
+P00532	2025-12-27	sábado	A	Mañana	Hawaiana	10.8	26.1	203.3	1	Bueno
+P00533	2025-12-16	martes	A	Tarde	Vegetariana	14	29.9	208	0	Bueno
+P00534	2025-08-17	domingo	A	Noche	Vegetariana	11.8	31.7	218.1	1	Regular
+P00535	2025-12-30	martes	A	Noche	Hawaiana	14.1	23.7	203.8	0	Bueno
+P00536	2025-08-18	lunes	A	Tarde	Vegetariana	15.9	29.3	219.4	0	Regular
+P00537	2025-11-28	viernes	A	Noche	Hawaiana	12.3	28.1	207.2	0	Bueno
+P00538	2025-07-26	sábado	A	Mañana	Vegetariana	10.7	24.7	206.1	0	Bueno
+P00539	2025-05-27	martes	A	Noche	Hawaiana	14	25.1	220.8	0	Bueno
+P00540	2025-07-21	lunes	A	Noche	Vegetariana	11.2	26.2	209.8	0	Regular
+P00541	2025-09-12	viernes	A	Noche	Pollo BBQ	10.4	25	203.8	0	Bueno
+P00542	2025-06-07	sábado	B	Tarde	Vegetariana	9.7	25.3	200.1	0	Regular
+P00543	2025-05-30	viernes	A	Tarde	Pepperoni	13.3	34.5	213.3	0	Bueno
+P00544	2025-12-25	jueves	B	Noche	Hawaiana	13	24.3	206.5	0	Bueno
+P00545	2025-03-14	viernes	A	Tarde	Hawaiana	9.6	21.9	209.9	0	Regular
+P00546	2025-03-30	domingo	A	Noche	Pollo BBQ	13.8	29.8	214.5	0	Bueno
+P00547	2025-07-07	lunes	A	Tarde	Pollo BBQ	14.1	29.3	206.5	0	Bueno
+P00548	2025-06-12	jueves	A	Tarde	Pepperoni	12.8	26.1	199.8	0	Bueno
+P00549	2025-06-28	sábado	A	Noche	Pollo BBQ	10.2	24.7	209.9	1	Regular
+P00550	2025-04-23	miércoles	A	Noche	Vegetariana	11.2	26.1	199	0	Regular
+P00551	2025-02-17	lunes	A	Noche	Vegetariana	14	29	212.9	0	Regular
+P00552	2025-09-07	domingo	B	Tarde	Vegetariana	10.9	21	217.7	0	Bueno
+P00553	2025-03-18	martes	A	Noche	Pollo BBQ	12.8	29.2	206.6	0	Bueno
+P00554	2025-12-21	domingo	A	Mañana	Vegetariana	15.6	29	206.5	0	Regular
+P00555	2025-08-09	sábado	A	Noche	Hawaiana	14.2	24.7	204.3	0	Bueno
+P00556	2025-08-24	domingo	B	Tarde	Pollo BBQ	10.9	24	223.1	1	Bueno
+P00557	2025-05-02	viernes	A	Noche	Hawaiana	11.3	27.4	215.4	2	Regular
+P00558	2025-03-29	sábado	A	Tarde	Pepperoni	11.3	23.1	200.6	1	Bueno
+P00559	2025-02-21	viernes	A	Tarde	Vegetariana	11.7	30.6	206.1	0	Bueno
+P00560	2025-10-05	domingo	A	Mañana	Pepperoni	13.9	32.7	214.7	0	Regular
+P00561	2025-09-06	sábado	A	Noche	Hawaiana	11.2	17.1	213.9	2	Bueno
+P00562	2025-06-18	miércoles	A	Mañana	Vegetariana	13.1	23.8	219.5	0	Regular
+P00563	2025-07-08	martes	B	Mañana	Pollo BBQ	11.9	19.7	206.1	0	Bueno
+P00564	2025-10-17	viernes	A	Noche	Vegetariana	14	25.1	204.5	0	Bueno
+P00565	2025-11-30	domingo	A	Noche	Hawaiana	11.2	30.3	212.4	1	Regular
+P00566	2025-01-21	martes	A	Noche	Pollo BBQ	12	26	205.9	0	Bueno
+P00567	2025-09-22	lunes	A	Tarde	Hawaiana	15.7	27.8	229.3	1	Bueno
+P00568	2025-02-16	domingo	A	Mañana	Hawaiana	12.9	29.7	190.6	0	Regular
+P00569	2025-09-07	domingo	B	Tarde	Pepperoni	14.7	21	222.3	0	Regular
+P00570	2025-12-23	martes	A	Noche	Hawaiana	13.3	19.1	209.6	0	Bueno
+P00571	2025-03-25	martes	A	Tarde	Pollo BBQ	11.2	22.2	215.6	1	Regular
+P00572	2025-08-03	domingo	A	Noche	Pollo BBQ	11.3	35.8	213.8	1	Bueno
+P00573	2025-06-21	sábado	A	Noche	Hawaiana	12.5	22.4	194.1	1	Bueno
+P00574	2025-11-29	sábado	A	Tarde	Vegetariana	12.5	22.9	204.9	0	Regular
+P00575	2025-11-09	domingo	A	Mañana	Pepperoni	14.3	24	204.2	0	Bueno
+P00576	2025-01-05	domingo	A	Tarde	Pollo BBQ	11	19.6	203.5	0	Regular
+P00577	2025-12-02	martes	A	Tarde	Hawaiana	13.6	29.6	193.7	0	Regular
+P00578	2025-10-08	miércoles	A	Noche	Pollo BBQ	10.4	19.2	213.2	0	Regular
+P00579	2025-04-05	sábado	B	Tarde	Hawaiana	13	20	212.2	0	Regular
+P00580	2025-07-09	miércoles	A	Noche	Pollo BBQ	10	21.3	228	0	Regular
+P00581	2025-01-10	viernes	A	Noche	Pepperoni	12.6	35.3	203.6	1	Regular
+P00582	2025-06-10	martes	A	Mañana	Pepperoni	12.6	29.3	200.1	0	Bueno
+P00583	2025-02-03	lunes	A	Noche	Pepperoni	13.5	27.5	215.4	0	Regular
+P00584	2025-04-08	martes	A	Tarde	Hawaiana	9.1	28.3	202.7	1	Regular
+P00585	2025-05-16	viernes	A	Tarde	Vegetariana	11.2	17.8	202.4	0	Bueno
+P00586	2025-12-06	sábado	B	Tarde	Pepperoni	11	28	209.7	0	Bueno
+P00587	2025-03-28	viernes	A	Tarde	Hawaiana	14.1	33.5	214	0	Bueno
+P00588	2025-11-29	sábado	A	Mañana	Pepperoni	11.7	31.7	207.9	0	Regular
+P00589	2025-07-14	lunes	A	Mañana	Pollo BBQ	11.3	17.4	208.2	0	Regular
+P00590	2025-06-12	jueves	A	Tarde	Pepperoni	15.1	17.4	202.5	2	Bueno
+P00591	2025-04-07	lunes	A	Noche	Hawaiana	11.1	29.8	197.7	0	Regular
+P00592	2025-04-05	sábado	A	Noche	Pollo BBQ	9.5	14.3	217.3	0	Bueno
+P00593	2025-06-13	viernes	A	Tarde	Pollo BBQ	11.6	17.3	217.4	0	Bueno
+P00594	2025-05-07	miércoles	A	Tarde	Pollo BBQ	15.6	26.3	204.7	0	Regular
+P00595	2025-11-09	domingo	A	Tarde	Pepperoni	10.6	28.1	212.2	0	Bueno
+P00596	2025-09-13	sábado	A	Tarde	Vegetariana	10.7	30.7	211.1	1	Regular
+P00597	2025-08-19	martes	A	Noche	Pepperoni	12.8	28	209.3	0	Bueno
+P00598	2025-03-19	miércoles	B	Tarde	Vegetariana	12.2	25.2	210.9	0	Bueno
+P00599	2025-01-01	miércoles	B	Tarde	Pepperoni	14.7	21	213.8	0	Bueno
+P00600	2025-05-15	jueves	A	Noche	Pepperoni	11.6	29.3	209.3	1	Bueno
+P00601	2025-09-28	domingo	A	Tarde	Pepperoni	11.9	24.3	207.3	0	Regular
+P00602	2025-03-26	miércoles	A	Tarde	Pollo BBQ	15.1	27.9	200	0	Malo
+P00603	2025-04-30	miércoles	A	Tarde	Pepperoni	12.2	26.9	204.7	1	Bueno
+P00604	2025-01-12	domingo	A	Mañana	Hawaiana	11.8	24.5	218.4	2	Regular
+P00605	2025-08-19	martes	A	Tarde	Vegetariana	11.9	28.7	209.3	1	Bueno
+P00606	2025-08-19	martes	A	Noche	Vegetariana	11.1	30	197.3	0	Regular
+P00607	2025-11-30	domingo	A	Tarde	Hawaiana	14.4	35.8	220.3	1	Bueno
+P00608	2025-02-25	martes	A	Noche	Pollo BBQ	9.6	26.7	202.9	0	Bueno
+P00609	2025-09-24	miércoles	A	Noche	Pollo BBQ	9.3	30.7	205.3	0	Regular
+P00610	2025-07-15	martes	A	Tarde	Pepperoni	10.7	25.8	196.5	0	Bueno
+P00611	2025-03-25	martes	A	Tarde	Pepperoni	11.4	29.8	210.2	0	Regular
+P00612	2025-06-04	miércoles	A	Tarde	Pollo BBQ	13.4	33.7	202.7	0	Bueno
+P00613	2025-08-30	sábado	A	Mañana	Vegetariana	13.1	29.3	216.4	0	Regular
+P00614	2025-02-22	sábado	A	Tarde	Hawaiana	13.4	34	216.5	0	Regular
+P00615	2025-09-05	viernes	A	Tarde	Vegetariana	13.7	28.9	211.2	0	Bueno
+P00616	2025-03-19	miércoles	B	Mañana	Vegetariana	10.1	20.3	208.5	0	Bueno
+P00617	2025-07-13	domingo	A	Tarde	Vegetariana	12.9	26.9	209.8	1	Bueno
+P00618	2025-01-20	lunes	A	Mañana	Hawaiana	10.9	26.2	210.7	0	Regular
+P00619	2025-07-13	domingo	A	Tarde	Hawaiana	9.7	23.8	208.1	0	Bueno
+P00620	2025-07-06	domingo	A	Noche	Vegetariana	13.1	22.6	207.5	0	Bueno
+P00621	2025-08-07	jueves	A	Tarde	Hawaiana	14.5	21.3	203.3	0	Regular
+P00622	2025-04-15	martes	B	Tarde	Pepperoni	7.6	16.8	209.5	1	Bueno
+P00623	2025-12-28	domingo	A	Noche	Pollo BBQ	14.1	27.1	217.2	0	Bueno
+P00624	2025-12-13	sábado	A	Noche	Hawaiana	12.8	25.1	213.8	0	Bueno
+P00625	2025-09-24	miércoles	A	Noche	Pollo BBQ	11.1	26.6	210.4	2	Bueno
+P00626	2025-12-14	domingo	A	Noche	Vegetariana	10.4	29.1	214.8	1	Bueno
+P00627	2025-06-17	martes	A	Mañana	Hawaiana	10.2	26.2	220.5	0	Bueno
+P00628	2025-10-30	jueves	A	Tarde	Hawaiana	11.3	34	210.5	0	Bueno
+P00629	2025-06-03	martes	A	Tarde	Vegetariana	14.6	34.2	216.9	0	Bueno
+P00630	2025-01-12	domingo	A	Tarde	Vegetariana	13.1	16.5	189.8	0	Bueno
+P00631	2025-07-10	jueves	A	Noche	Hawaiana	11.3	26.9	210	0	Regular
+P00632	2025-10-20	lunes	A	Mañana	Vegetariana	7.6	19.1	217.3	0	Bueno
+P00633	2025-09-13	sábado	A	Noche	Vegetariana	13.2	33.1	207.8	0	Bueno
+P00634	2025-09-05	viernes	A	Noche	Vegetariana	14.2	26.9	203.6	1	Bueno
+P00635	2025-12-06	sábado	A	Mañana	Pepperoni	12.8	34.7	210.4	0	Regular
+P00636	2025-04-18	viernes	A	Tarde	Pollo BBQ	11.6	22.2	218.7	0	Bueno
+P00637	2025-07-20	domingo	A	Noche	Hawaiana	13	21.4	210.3	0	Bueno
+P00638	2025-01-25	sábado	A	Mañana	Vegetariana	14.7	28.7	213.4	0	Bueno
+P00639	2025-11-05	miércoles	A	Noche	Hawaiana	12.1	18.5	204.2	1	Bueno
+P00640	2025-06-08	domingo	A	Noche	Vegetariana	13.5	22.4	211.3	1	Regular
+P00641	2025-12-19	viernes	A	Noche	Vegetariana	10.6	26.1	207.6	0	Bueno
+P00642	2025-10-16	jueves	A	Tarde	Hawaiana	12.1	21.4	221.8	1	Bueno
+P00643	2025-12-28	domingo	B	Mañana	Pepperoni	10.4	24.9	211.8	1	Bueno
+P00644	2025-05-06	martes	A	Tarde	Pollo BBQ	15.4	22.2	196.5	0	Bueno
+P00645	2025-07-12	sábado	A	Noche	Vegetariana	11.8	25.2	209.1	0	Bueno
+P00646	2025-05-18	domingo	A	Noche	Hawaiana	14.4	29.1	206.7	0	Regular
+P00647	2025-04-06	domingo	A	Tarde	Pollo BBQ	8.8	21.1	213.7	0	Regular
+P00648	2025-09-02	martes	A	Tarde	Pepperoni	13.6	27.8	206.5	0	Regular
+P00649	2025-05-19	lunes	A	Noche	Pepperoni	12.8	19.2	209.9	0	Bueno
+P00650	2025-10-17	viernes	A	Tarde	Vegetariana	13.2	24.9	201.7	0	Bueno
+P00651	2025-03-17	lunes	A	Mañana	Pollo BBQ	12.3	32.2	208	0	Regular
+P00652	2025-04-25	viernes	A	Tarde	Hawaiana	12.5	31.6	208.1	0	Bueno
+P00653	2025-07-15	martes	A	Noche	Hawaiana	13.4	24.6	216.1	0	Bueno
+P00654	2025-09-21	domingo	A	Noche	Pollo BBQ	15.3	32.7	207	0	Regular
+P00655	2025-05-02	viernes	B	Mañana	Hawaiana	12.5	21.3	212.5	0	Bueno
+P00656	2025-04-18	viernes	A	Tarde	Pollo BBQ	17.7	25.7	197.4	0	Bueno
+P00657	2025-10-08	miércoles	A	Noche	Pepperoni	11	22.9	210.5	0	Malo
+P00658	2025-05-16	viernes	A	Noche	Pepperoni	11.6	30	212.3	0	Regular
+P00659	2025-12-20	sábado	A	Noche	Vegetariana	12.5	25.3	209.8	0	Regular
+P00660	2025-04-11	viernes	A	Noche	Vegetariana	10.7	23.3	217.2	0	Bueno
+P00661	2025-07-13	domingo	B	Mañana	Pollo BBQ	14	22	209.1	1	Regular
+P00662	2025-07-09	miércoles	A	Noche	Pollo BBQ	11.2	23.2	198.4	2	Bueno
+P00663	2025-05-20	martes	A	Mañana	Pepperoni	10.8	26.4	214.4	0	Regular
+P00664	2025-08-26	martes	A	Noche	Hawaiana	11.1	21.7	216.5	0	Regular
+P00665	2025-05-20	martes	A	Noche	Vegetariana	11.3	21.2	219.5	0	Bueno
+P00666	2025-09-23	martes	A	Tarde	Vegetariana	10.4	30.7	210.3	0	Bueno
+P00667	2025-01-05	domingo	A	Mañana	Pepperoni	13.5	35.8	209.4	0	Bueno
+P00668	2025-02-08	sábado	A	Noche	Pepperoni	13.2	20.6	207.1	2	Bueno
+P00669	2025-12-18	jueves	A	Tarde	Pepperoni	12.3	22.6	204.6	0	Bueno
+P00670	2025-12-06	sábado	A	Mañana	Hawaiana	13.2	24.4	223.8	0	Bueno
+P00671	2025-08-10	domingo	A	Tarde	Pollo BBQ	11.7	17.1	206.1	0	Bueno
+P00672	2025-05-17	sábado	A	Tarde	Pepperoni	10	17.8	209	0	Bueno
+P00673	2025-05-31	sábado	A	Tarde	Pollo BBQ	9	26.8	221	0	Bueno
+P00674	2025-03-25	martes	A	Tarde	Vegetariana	11.2	24.3	210.2	0	Bueno
+P00675	2025-10-12	domingo	A	Mañana	Hawaiana	12.9	30.5	216.3	0	Bueno
+P00676	2025-06-06	viernes	A	Noche	Pepperoni	16.3	34.6	204	0	Regular
+P00677	2025-09-02	martes	A	Noche	Vegetariana	17.4	36.1	199.8	0	Bueno
+P00678	2025-12-22	lunes	A	Noche	Pepperoni	11.4	22.8	201.1	0	Bueno
+P00679	2025-11-07	viernes	A	Tarde	Vegetariana	13.1	34.4	206.5	1	Regular
+P00680	2025-01-12	domingo	A	Tarde	Pepperoni	11.9	22	200.8	0	Regular
+P00681	2025-06-01	domingo	A	Mañana	Hawaiana	12.3	22.4	204.2	0	Regular
+P00682	2025-04-27	domingo	A	Noche	Vegetariana	11.5	31.3	217	0	Bueno
+P00683	2025-05-21	miércoles	A	Tarde	Vegetariana	12.2	25.4	202.1	1	Bueno
+P00684	2025-03-09	domingo	A	Noche	Hawaiana	10.4	23.3	217.6	0	Regular
+P00685	2025-04-11	viernes	B	Tarde	Vegetariana	13.4	29	216.6	0	Regular
+P00686	2025-01-21	martes	A	Noche	Vegetariana	12.4	30.8	211.4	0	Bueno
+P00687	2025-11-03	lunes	A	Noche	Hawaiana	12.1	18.8	203.9	0	Bueno
+P00688	2025-01-29	miércoles	A	Mañana	Pepperoni	11.1	23.6	218.6	0	Bueno
+P00689	2025-07-11	viernes	A	Noche	Pollo BBQ	15	37.5	204	0	Bueno
+P00690	2025-05-27	martes	A	Tarde	Pepperoni	12	24.5	213.9	0	Bueno
+P00691	2025-12-02	martes	A	Tarde	Vegetariana	10.3	25.7	202.9	1	Regular
+P00692	2025-05-18	domingo	A	Tarde	Vegetariana	10.3	17.6	203	0	Bueno
+P00693	2025-04-25	viernes	A	Noche	Pepperoni	9.6	27	201.1	0	Bueno
+P00694	2025-11-15	sábado	A	Noche	Hawaiana	11.6	25	207.6	0	Regular
+P00695	2025-03-11	martes	A	Noche	Pollo BBQ	13.8	28.3	201.5	1	Bueno
+P00696	2025-02-07	viernes	A	Tarde	Vegetariana	13.4	30.3	206.3	0	Regular
+P00697	2025-01-26	domingo	A	Noche	Pollo BBQ	13.5	29.5	203.6	0	Regular
+P00698	2025-01-14	martes	A	Noche	Pepperoni	15.7	32.3	206.4	0	Bueno
+P00699	2025-05-14	miércoles	A	Tarde	Hawaiana	11.4	24.7	216.1	1	Bueno
+P00700	2025-07-10	jueves	A	Tarde	Hawaiana	9.6	22.2	206.4	0	Bueno
+P00701	2025-02-16	domingo	A	Noche	Pepperoni	9.9	29.3	221.3	0	Bueno
+P00702	2025-08-03	domingo	B	Tarde	Pollo BBQ	11.7	21.8	210.2	0	Bueno
+P00703	2025-08-03	domingo	A	Tarde	Pepperoni	9.3	29.3	220.3	0	Bueno
+P00704	2025-03-17	lunes	A	Mañana	Pollo BBQ	13.3	22.1	197.2	1	Bueno
+P00705	2025-05-09	viernes	A	Noche	Vegetariana	9	22.9	214.4	0	Bueno
+P00706	2025-03-18	martes	A	Mañana	Vegetariana	13.1	33.2	213.7	0	Regular
+P00707	2025-01-21	martes	A	Tarde	Vegetariana	11.6	25.6	199.8	0	Regular
+P00708	2025-10-28	martes	A	Tarde	Vegetariana	12.8	25.5	207.4	0	Regular
+P00709	2025-10-11	sábado	A	Noche	Pepperoni	9.2	31.8	209.1	1	Bueno
+P00710	2025-11-24	lunes	A	Tarde	Vegetariana	14.8	23.8	203	0	Bueno
+P00711	2025-05-15	jueves	A	Noche	Pepperoni	14	32.5	202.6	0	Regular
+P00712	2025-08-15	viernes	A	Mañana	Pepperoni	14	32	206.5	0	Regular
+P00713	2025-01-02	jueves	A	Tarde	Pollo BBQ	11.3	23.9	202.3	0	Regular
+P00714	2025-04-13	domingo	A	Noche	Pollo BBQ	13.6	35.9	214.2	0	Regular
+P00715	2025-06-21	sábado	A	Tarde	Hawaiana	15.5	28	208.8	0	Bueno
+P00716	2025-11-06	jueves	B	Noche	Vegetariana	10.4	22.5	203.7	0	Regular
+P00717	2025-01-18	sábado	A	Tarde	Vegetariana	13.7	32.5	220	0	Regular
+P00718	2025-04-21	lunes	A	Tarde	Pollo BBQ	16.9	26	201.8	1	Bueno
+P00719	2025-05-15	jueves	A	Noche	Pollo BBQ	11.7	22.2	213.2	1	Bueno
+P00720	2025-11-30	domingo	A	Tarde	Hawaiana	12.4	30.8	207.6	0	Bueno
+P00721	2025-07-04	viernes	B	Noche	Hawaiana	11.8	24	205.2	0	Regular
+P00722	2025-06-15	domingo	A	Noche	Pepperoni	12.6	20.4	197	0	Bueno
+P00723	2025-01-03	viernes	A	Noche	Hawaiana	11.2	25.8	210.2	0	Bueno
+P00724	2025-06-29	domingo	A	Tarde	Vegetariana	13.5	23.7	220.4	1	Bueno
+P00725	2025-09-19	viernes	B	Noche	Pepperoni	10.2	31.3	209.4	0	Regular
+P00726	2025-10-02	jueves	A	Tarde	Pollo BBQ	11.8	27.2	212.6	0	Bueno
+P00727	2025-11-04	martes	B	Mañana	Pollo BBQ	13	35	201.3	0	Regular
+P00728	2025-08-17	domingo	A	Tarde	Hawaiana	14.8	32.8	204.1	0	Regular
+P00729	2025-09-09	martes	A	Noche	Vegetariana	10.9	21.2	207.8	0	Bueno
+P00730	2025-10-16	jueves	A	Tarde	Vegetariana	14.9	32.2	196.9	0	Regular
+P00731	2025-06-08	domingo	A	Tarde	Pepperoni	10.4	18.7	191.8	1	Regular
+P00732	2025-12-06	sábado	A	Tarde	Pepperoni	13.2	24	218.7	0	Bueno
+P00733	2025-01-19	domingo	A	Noche	Pepperoni	13.7	26.8	210	0	Regular
+P00734	2025-08-27	miércoles	A	Noche	Pepperoni	13.1	27.7	208.8	0	Bueno
+P00735	2025-10-18	sábado	A	Noche	Hawaiana	10.3	33.9	209.7	0	Regular
+P00736	2025-12-26	viernes	B	Tarde	Vegetariana	13.6	26.6	214.4	0	Regular
+P00737	2025-05-11	domingo	A	Tarde	Hawaiana	15	26.7	212.4	0	Bueno
+P00738	2025-03-28	viernes	A	Tarde	Pollo BBQ	15.6	35.7	203.7	0	Bueno
+P00739	2025-07-15	martes	A	Tarde	Pollo BBQ	13.8	25.9	221.1	0	Bueno
+P00740	2025-05-06	martes	A	Noche	Vegetariana	9.8	21.1	205.3	0	Bueno
+P00741	2025-04-11	viernes	A	Tarde	Vegetariana	11.6	24.3	212.2	0	Regular
+P00742	2025-04-15	martes	A	Tarde	Pollo BBQ	14.3	27.5	194.2	0	Bueno
+P00743	2025-06-08	domingo	B	Tarde	Hawaiana	10.8	29.2	217.1	0	Bueno
+P00744	2025-11-28	viernes	B	Tarde	Pepperoni	14.3	25	210.6	0	Bueno
+P00745	2025-07-06	domingo	A	Tarde	Pollo BBQ	13.8	33.7	207.6	1	Regular
+P00746	2025-03-12	miércoles	A	Noche	Pepperoni	11.7	24.7	215.7	1	Bueno
+P00747	2025-02-21	viernes	A	Mañana	Pepperoni	14.1	26.7	222	0	Bueno
+P00748	2025-07-08	martes	B	Noche	Vegetariana	11.8	26.7	218.4	0	Regular
+P00749	2025-12-12	viernes	A	Noche	Pollo BBQ	13	24.2	208.7	0	Bueno
+P00750	2025-09-10	miércoles	A	Mañana	Hawaiana	12.3	18.3	207	0	Regular
+P00751	2025-02-25	martes	A	Noche	Hawaiana	13	29.9	205.8	1	Bueno
+P00752	2025-07-19	sábado	A	Noche	Pollo BBQ	13.1	26.5	213.2	0	Regular
+P00753	2025-03-04	martes	A	Noche	Vegetariana	14.8	32.3	213.3	0	Bueno
+P00754	2025-03-06	jueves	A	Tarde	Pepperoni	13.9	30.7	204.1	1	Bueno
+P00755	2025-01-17	viernes	A	Mañana	Pollo BBQ	12.5	32.6	218.1	0	Bueno
+P00756	2025-07-05	sábado	A	Mañana	Pollo BBQ	11.2	24.2	211.4	0	Bueno
+P00757	2025-04-27	domingo	A	Noche	Vegetariana	14.3	29.3	221	0	Bueno
+P00758	2025-12-14	domingo	A	Tarde	Vegetariana	13.9	22.5	207.2	0	Bueno
+P00759	2025-08-07	jueves	A	Tarde	Pepperoni	11.8	27.9	212	0	Bueno
+P00760	2025-01-17	viernes	A	Noche	Hawaiana	13.8	29.9	218.1	0	Regular
+P00761	2025-06-18	miércoles	A	Noche	Hawaiana	15.6	27.3	199.6	0	Bueno
+P00762	2025-04-13	domingo	A	Tarde	Hawaiana	7.4	24.7	207.8	0	Bueno
+P00763	2025-11-13	jueves	B	Mañana	Vegetariana	13.7	21.8	216.3	0	Bueno
+P00764	2025-03-05	miércoles	A	Tarde	Pepperoni	11.8	32.9	210.7	2	Bueno
+P00765	2025-03-20	jueves	A	Tarde	Vegetariana	10.6	28.6	202.6	0	Bueno
+P00766	2025-09-08	lunes	B	Tarde	Vegetariana	12.1	22.8	208.9	1	Regular
+P00767	2025-01-07	martes	A	Noche	Hawaiana	13.7	32.3	196.5	0	Bueno
+P00768	2025-02-03	lunes	A	Noche	Pollo BBQ	16.1	29.4	204.4	0	Regular
+P00769	2025-06-19	jueves	A	Mañana	Pollo BBQ	15.9	32.1	201.8	0	Regular
+P00770	2025-10-31	viernes	B	Noche	Vegetariana	12.8	27.1	198.6	0	Bueno
+P00771	2025-10-07	martes	A	Tarde	Vegetariana	11	30.8	206.8	1	Regular
+P00772	2025-10-22	miércoles	A	Tarde	Pepperoni	11.2	29.3	217.5	0	Regular
+P00773	2025-02-04	martes	A	Tarde	Pepperoni	16.9	31	205.7	0	Malo
+P00774	2025-07-11	viernes	B	Tarde	Pollo BBQ	12.2	27	213.9	0	Bueno
+P00775	2025-06-20	viernes	A	Noche	Pepperoni	11.1	26.2	218.6	0	Bueno
+P00776	2025-01-24	viernes	A	Noche	Pollo BBQ	12	24	190	0	Bueno
+P00777	2025-11-15	sábado	A	Tarde	Pollo BBQ	14.1	30.7	211.7	0	Bueno
+P00778	2025-08-30	sábado	A	Noche	Pepperoni	13.7	27.8	219.4	0	Bueno
+P00779	2025-08-08	viernes	A	Noche	Vegetariana	12.1	24.3	210.5	0	Regular
+P00780	2025-07-19	sábado	A	Tarde	Pollo BBQ	15.4	31.5	207.2	1	Bueno
+P00781	2025-12-03	miércoles	A	Mañana	Hawaiana	11.1	24.2	194.6	0	Bueno
+P00782	2025-03-16	domingo	A	Tarde	Hawaiana	14	24.4	214.3	2	Bueno
+P00783	2025-12-13	sábado	B	Tarde	Vegetariana	11.2	25.6	212.2	0	Bueno
+P00784	2025-06-12	jueves	A	Mañana	Pollo BBQ	14.4	24.6	208.2	1	Bueno
+P00785	2025-07-24	jueves	A	Noche	Pollo BBQ	12.5	29.6	197.4	0	Regular
+P00786	2025-04-20	domingo	A	Tarde	Pepperoni	10.8	27.6	217	0	Bueno
+P00787	2025-12-19	viernes	B	Tarde	Pepperoni	11.3	22	200.7	0	Bueno
+P00788	2025-11-18	martes	A	Tarde	Hawaiana	12	32.5	208	0	Bueno
+P00789	2025-12-02	martes	A	Noche	Vegetariana	12.7	26.2	217.5	0	Regular
+P00790	2025-05-20	martes	A	Mañana	Hawaiana	11.2	20	202.4	0	Regular
+P00791	2025-07-29	martes	A	Mañana	Pollo BBQ	12.2	22.8	216.3	0	Bueno
+P00792	2025-04-24	jueves	A	Noche	Pollo BBQ	11.9	27.7	216.3	1	Bueno
+P00793	2025-06-22	domingo	B	Tarde	Hawaiana	9.4	21	211.4	0	Bueno
+P00794	2025-02-15	sábado	A	Noche	Pepperoni	15.4	36.5	215.5	0	Bueno
+P00795	2025-07-20	domingo	A	Noche	Pollo BBQ	10.9	27.3	212.6	1	Regular
+P00796	2025-03-11	martes	A	Tarde	Pepperoni	10.1	16.4	202.3	0	Bueno
+P00797	2025-05-16	viernes	A	Noche	Vegetariana	12.3	29.6	194.7	1	Malo
+P00798	2025-07-25	viernes	A	Mañana	Hawaiana	11.1	24.7	205.7	0	Bueno
+P00799	2025-11-09	domingo	A	Noche	Vegetariana	13.8	21.4	209.4	0	Bueno
+P00800	2025-11-10	lunes	A	Noche	Hawaiana	17.1	37.9	215.8	0	Bueno
+P00801	2025-10-22	miércoles	A	Tarde	Pepperoni	12.1	24.4	205.7	1	Bueno
+P00802	2025-02-09	domingo	A	Tarde	Vegetariana	12.6	28.2	209.7	0	Bueno
+P00803	2025-09-03	miércoles	A	Tarde	Pollo BBQ	10.5	25.8	213	0	Bueno
+P00804	2025-09-22	lunes	A	Tarde	Pepperoni	12.4	23.6	202	0	Bueno
+P00805	2025-09-13	sábado	A	Tarde	Pollo BBQ	12.1	31.4	210.8	0	Bueno
+P00806	2025-01-21	martes	A	Noche	Vegetariana	13.3	31.8	219.8	1	Bueno
+P00807	2025-08-24	domingo	A	Noche	Pepperoni	8	25.9	197.5	0	Regular
+P00808	2025-08-12	martes	A	Noche	Pollo BBQ	12.9	31.7	216.5	0	Bueno
+P00809	2025-08-26	martes	A	Mañana	Hawaiana	11.1	22.2	215.1	0	Bueno
+P00810	2025-03-04	martes	A	Noche	Vegetariana	13.3	31.9	203	0	Bueno
+P00811	2025-06-01	domingo	A	Noche	Pepperoni	15.1	21.3	205	0	Malo
+P00812	2025-05-11	domingo	A	Noche	Vegetariana	13.2	25.4	210	0	Bueno
+P00813	2025-10-25	sábado	A	Noche	Hawaiana	12.1	37.7	203.1	0	Regular
+P00814	2025-08-29	viernes	A	Noche	Pepperoni	16	26.4	198.2	0	Bueno
+P00815	2025-08-02	sábado	A	Tarde	Vegetariana	11.2	30	204	0	Regular
+P00816	2025-03-02	domingo	A	Mañana	Pollo BBQ	9.9	23.6	207.3	0	Regular
+P00817	2025-04-15	martes	A	Mañana	Pollo BBQ	10.1	23.8	214.8	0	Bueno
+P00818	2025-06-03	martes	A	Tarde	Pollo BBQ	16.9	26.1	212.5	0	Bueno
+P00819	2025-05-13	martes	A	Tarde	Pollo BBQ	10.3	28	219.7	0	Bueno
+P00820	2025-02-11	martes	A	Noche	Vegetariana	12.6	31.5	211.8	1	Regular
+P00821	2025-08-08	viernes	A	Tarde	Hawaiana	13.8	29.5	202.3	1	Bueno
+P00822	2025-09-13	sábado	A	Noche	Vegetariana	15.8	36.7	206.5	0	Bueno
+P00823	2025-11-22	sábado	B	Noche	Vegetariana	6.4	15.6	212.5	0	Bueno
+P00824	2025-06-17	martes	A	Noche	Vegetariana	8.2	20.4	205.6	0	Regular
+P00825	2025-06-27	viernes	A	Tarde	Hawaiana	11.7	22.7	209.2	0	Bueno
+P00826	2025-10-26	domingo	B	Noche	Vegetariana	11	29.8	204.9	0	Bueno
+P00827	2025-11-30	domingo	A	Noche	Hawaiana	14.7	26	219.7	1	Regular
+P00828	2025-03-11	martes	A	Noche	Pepperoni	10	31.9	207.1	0	Regular
+P00829	2025-09-28	domingo	B	Tarde	Pepperoni	13.9	26.9	204.4	1	Bueno
+P00830	2025-12-08	lunes	A	Tarde	Vegetariana	13	26	208.6	1	Regular
+P00831	2025-04-13	domingo	A	Tarde	Pollo BBQ	10.7	28	205.6	0	Bueno
+P00832	2025-01-11	sábado	A	Tarde	Hawaiana	12	17.9	216.1	2	Bueno
+P00833	2025-12-06	sábado	A	Tarde	Pollo BBQ	14.8	40.4	204.3	1	Malo
+P00834	2025-03-11	martes	A	Mañana	Pollo BBQ	12.1	32.4	206	1	Regular
+P00835	2025-02-02	domingo	A	Tarde	Pollo BBQ	11.8	27.6	200.6	1	Bueno
+P00836	2025-04-19	sábado	A	Tarde	Vegetariana	12.2	31.9	213	0	Regular
+P00837	2025-08-29	viernes	A	Noche	Hawaiana	12.1	28.7	207.4	0	Regular
+P00838	2025-07-05	sábado	B	Mañana	Pollo BBQ	13.5	21.3	211.1	1	Bueno
+P00839	2025-09-03	miércoles	A	Noche	Vegetariana	14.4	36	214.9	0	Regular
+P00840	2025-04-05	sábado	A	Tarde	Vegetariana	11	30.8	221.6	0	Bueno
+P00841	2025-03-02	domingo	A	Noche	Vegetariana	11.5	27.9	205.2	0	Bueno
+P00842	2025-02-04	martes	A	Tarde	Pollo BBQ	10.8	23.4	202.7	0	Regular
+P00843	2025-11-12	miércoles	A	Mañana	Pollo BBQ	11.8	19.6	209.5	1	Bueno
+P00844	2025-02-18	martes	A	Noche	Pollo BBQ	14.6	29	212.8	0	Malo
+P00845	2025-10-18	sábado	A	Tarde	Vegetariana	14.4	37.1	204	0	Bueno
+P00846	2025-10-02	jueves	A	Tarde	Hawaiana	11.8	31	197.2	0	Bueno
+P00847	2025-04-27	domingo	B	Noche	Hawaiana	16.2	30	210.6	0	Regular
+P00848	2025-09-05	viernes	A	Tarde	Vegetariana	15.9	41.2	201.7	0	Regular
+P00849	2025-10-09	jueves	A	Mañana	Hawaiana	11	37	203.3	1	Regular
+P00850	2025-04-26	sábado	A	Tarde	Pollo BBQ	11.1	29.2	207.5	0	Bueno
+P00851	2025-05-25	domingo	A	Noche	Vegetariana	14.4	30	203.4	0	Bueno
+P00852	2025-07-21	lunes	A	Tarde	Pollo BBQ	13.8	27.9	213.8	0	Regular
+P00853	2025-10-17	viernes	A	Tarde	Pepperoni	14.9	31.1	215.1	0	Regular
+P00854	2025-06-20	viernes	B	Noche	Vegetariana	12.9	32.5	202.1	0	Malo
+P00855	2025-12-27	sábado	A	Mañana	Pollo BBQ	9.1	22.8	207	0	Regular
+P00856	2025-01-03	viernes	B	Tarde	Hawaiana	12.8	19	220.4	0	Bueno
+P00857	2025-09-09	martes	A	Noche	Hawaiana	12	27.3	210.4	1	Bueno
+P00858	2025-01-22	miércoles	A	Noche	Pollo BBQ	13.8	24.1	232	0	Regular
+P00859	2025-10-08	miércoles	B	Mañana	Hawaiana	10.9	24.6	204	1	Regular
+P00860	2025-11-05	miércoles	A	Tarde	Pollo BBQ	12.5	28.8	200	0	Regular
+P00861	2025-01-28	martes	A	Noche	Vegetariana	13.4	18.6	220.5	0	Bueno
+P00862	2025-06-10	martes	A	Mañana	Vegetariana	8.8	29.9	220.5	0	Regular
+P00863	2025-07-17	jueves	A	Tarde	Pepperoni	11.5	24.4	206.3	0	Bueno
+P00864	2025-03-23	domingo	A	Tarde	Pepperoni	13.3	35.3	217.3	0	Regular
+P00865	2025-06-01	domingo	A	Tarde	Hawaiana	12.8	35.9	219.7	0	Bueno
+P00866	2025-08-24	domingo	A	Tarde	Pepperoni	10.9	27.5	208.3	1	Regular
+P00867	2025-08-02	sábado	A	Tarde	Pepperoni	14.1	25.2	209.6	0	Regular
+P00868	2025-03-12	miércoles	A	Noche	Pollo BBQ	14.3	28.9	204.2	0	Bueno
+P00869	2025-08-17	domingo	B	Noche	Pollo BBQ	10.8	28.2	202.9	1	Regular
+P00870	2025-10-12	domingo	A	Noche	Hawaiana	12.9	24.3	205.1	1	Bueno
+P00871	2025-02-04	martes	A	Tarde	Pepperoni	14.7	28.7	200.7	0	Bueno
+P00872	2025-08-10	domingo	A	Noche	Pollo BBQ	8.8	22.4	209	0	Bueno
+P00873	2025-06-08	domingo	A	Mañana	Vegetariana	9.5	17.7	209.4	0	Bueno
+P00874	2025-03-02	domingo	A	Noche	Pepperoni	10.2	28.5	199.8	0	Bueno
+P00875	2025-08-09	sábado	B	Tarde	Vegetariana	13.7	29.7	210.7	0	Regular
+P00876	2025-10-28	martes	A	Noche	Pollo BBQ	13.4	29.5	215.6	0	Regular
+P00877	2025-04-01	martes	A	Tarde	Vegetariana	9	23.8	221	0	Bueno
+P00878	2025-02-18	martes	A	Noche	Pollo BBQ	10	21.7	218.7	1	Bueno
+P00879	2025-09-21	domingo	B	Mañana	Hawaiana	12.9	22	220.8	0	Bueno
+P00880	2025-11-29	sábado	A	Noche	Hawaiana	9.6	31.3	206.8	0	Bueno
+P00881	2025-04-07	lunes	A	Noche	Pollo BBQ	11.2	29.4	214.9	1	Bueno
+P00882	2025-11-15	sábado	A	Mañana	Vegetariana	12	34.8	212.8	0	Bueno
+P00883	2025-11-07	viernes	A	Noche	Vegetariana	11.8	28.6	208	0	Bueno
+P00884	2025-10-26	domingo	A	Noche	Hawaiana	14.3	32.5	203.8	0	Bueno
+P00885	2025-10-19	domingo	A	Noche	Vegetariana	12.7	22.9	216.4	0	Regular
+P00886	2025-07-04	viernes	A	Noche	Vegetariana	14.2	31	210.3	0	Regular
+P00887	2025-06-03	martes	A	Tarde	Pepperoni	11.4	26.4	200.5	0	Bueno
+P00888	2025-08-07	jueves	A	Mañana	Vegetariana	12	18.6	216.3	0	Bueno
+P00889	2025-07-29	martes	A	Noche	Pollo BBQ	12.3	29.4	204	1	Bueno
+P00890	2025-03-15	sábado	A	Tarde	Pollo BBQ	11.9	24.3	219.9	0	Bueno
+P00891	2025-12-28	domingo	A	Tarde	Vegetariana	9.1	26.5	210.2	0	Bueno
+P00892	2025-09-23	martes	A	Noche	Pepperoni	14.6	27.1	211.8	0	Bueno
+P00893	2025-04-28	lunes	A	Tarde	Pollo BBQ	10.8	19.2	205.8	0	Bueno
+P00894	2025-10-09	jueves	A	Tarde	Vegetariana	14.9	17.4	212.7	1	Bueno
+P00895	2025-07-27	domingo	A	Tarde	Pepperoni	11.4	32.5	216.2	0	Bueno
+P00896	2025-04-07	lunes	A	Mañana	Vegetariana	13	31.7	201.2	0	Regular
+P00897	2025-04-27	domingo	A	Tarde	Hawaiana	9	28.3	196.3	0	Bueno
+P00898	2025-04-26	sábado	A	Noche	Pollo BBQ	14	29.1	210.5	0	Bueno
+P00899	2025-05-17	sábado	A	Noche	Pepperoni	9	26.9	220.7	1	Bueno
+P00900	2025-06-08	domingo	A	Mañana	Pollo BBQ	14.1	30.5	198.2	0	Bueno
+P00901	2025-08-29	viernes	A	Noche	Hawaiana	12.8	22.2	207.1	1	Regular
+P00902	2025-07-13	domingo	A	Tarde	Hawaiana	12.8	26.2	200.8	0	Bueno
+P00903	2025-02-25	martes	A	Tarde	Pepperoni	12.3	28.7	209.9	1	Bueno
+P00904	2025-12-23	martes	A	Tarde	Vegetariana	12.4	38.9	213.3	0	Regular
+P00905	2025-03-22	sábado	A	Mañana	Vegetariana	10.1	20.1	208.7	0	Bueno
+P00906	2025-07-01	martes	A	Tarde	Pepperoni	16.6	30.5	207.2	0	Bueno
+P00907	2025-06-28	sábado	A	Noche	Vegetariana	9.7	23	216.9	0	Regular
+P00908	2025-09-03	miércoles	A	Noche	Hawaiana	12.2	21.6	203.8	1	Regular
+P00909	2025-08-02	sábado	A	Noche	Pepperoni	10	29	212.6	0	Regular
+P00910	2025-01-03	viernes	A	Mañana	Pollo BBQ	12.3	26.1	216.6	0	Bueno
+P00911	2025-10-26	domingo	A	Noche	Pepperoni	15	28.7	216.2	0	Regular
+P00912	2025-04-15	martes	A	Noche	Pepperoni	15.4	25.9	201.8	0	Bueno
+P00913	2025-12-26	viernes	A	Noche	Pollo BBQ	15.3	21.3	207.8	0	Bueno
+P00914	2025-08-23	sábado	A	Noche	Vegetariana	13.3	31	213	0	Bueno
+P00915	2025-08-15	viernes	A	Tarde	Hawaiana	11.7	20.4	208.4	0	Bueno
+P00916	2025-09-21	domingo	A	Tarde	Vegetariana	12.7	25	217.5	0	Regular
+P00917	2025-07-24	jueves	A	Tarde	Vegetariana	10.7	20.4	219.8	0	Bueno
+P00918	2025-11-04	martes	A	Mañana	Pollo BBQ	12.2	20.9	210.7	0	Regular
+P00919	2025-08-31	domingo	A	Mañana	Pepperoni	12	18.7	209.4	1	Bueno
+P00920	2025-02-13	jueves	A	Tarde	Pollo BBQ	14	23.5	216.6	0	Bueno
+P00921	2025-01-19	domingo	A	Noche	Pepperoni	8.4	23.4	196.7	1	Bueno
+P00922	2025-02-11	martes	A	Mañana	Vegetariana	12.8	27.3	220.3	0	Regular
+P00923	2025-07-23	miércoles	B	Tarde	Hawaiana	10.2	25.9	204.7	0	Regular
+P00924	2025-05-11	domingo	A	Tarde	Vegetariana	11.3	25.3	213.9	1	Bueno
+P00925	2025-02-18	martes	A	Noche	Pepperoni	10.9	22.9	210.7	1	Bueno
+P00926	2025-05-02	viernes	A	Mañana	Pollo BBQ	13.3	33.5	214	0	Regular
+P00927	2025-05-10	sábado	B	Noche	Pepperoni	14.1	20.4	214.8	0	Bueno
+P00928	2025-03-14	viernes	A	Mañana	Hawaiana	11.1	33.5	224.6	0	Bueno
+P00929	2025-11-23	domingo	A	Noche	Vegetariana	9.4	24.1	211	0	Bueno
+P00930	2025-07-15	martes	A	Mañana	Pollo BBQ	12.1	28.4	222	0	Bueno
+P00931	2025-08-17	domingo	A	Noche	Hawaiana	11.9	28.7	209.4	0	Regular
+P00932	2025-09-05	viernes	A	Noche	Hawaiana	8.8	26.1	205.9	0	Bueno
+P00933	2025-01-03	viernes	A	Mañana	Hawaiana	11.3	18.4	213.3	0	Bueno
+P00934	2025-01-12	domingo	A	Mañana	Hawaiana	12.2	22.9	204.9	0	Bueno
+P00935	2025-09-16	martes	A	Mañana	Hawaiana	10.5	14.2	204.2	0	Bueno
+P00936	2025-11-03	lunes	A	Tarde	Hawaiana	11.6	21.8	210.1	0	Bueno
+P00937	2025-02-09	domingo	A	Noche	Hawaiana	12	28.6	216.9	0	Bueno
+P00938	2025-03-22	sábado	A	Noche	Hawaiana	13.2	27.3	204.8	0	Bueno
+P00939	2025-06-08	domingo	A	Tarde	Hawaiana	12.1	34.2	203.4	0	Bueno
+P00940	2025-04-06	domingo	A	Tarde	Vegetariana	13.9	26.2	204	0	Bueno
+P00941	2025-09-06	sábado	A	Noche	Pepperoni	12.2	35.9	206.3	0	Regular
+P00942	2025-10-19	domingo	B	Noche	Vegetariana	14	28	208.5	0	Regular
+P00943	2025-10-18	sábado	A	Noche	Pollo BBQ	13.2	21.3	197.3	1	Bueno
+P00944	2025-03-30	domingo	A	Tarde	Hawaiana	10.7	23.4	211.8	1	Bueno
+P00945	2025-12-24	miércoles	A	Tarde	Pollo BBQ	9.7	25.2	204.3	0	Bueno
+P00946	2025-09-27	sábado	A	Tarde	Hawaiana	11.5	19.8	226.3	0	Bueno
+P00947	2025-01-04	sábado	A	Noche	Vegetariana	14.3	25	215.2	1	Bueno
+P00948	2025-06-06	viernes	B	Tarde	Hawaiana	12.6	26.8	216.9	0	Bueno
+P00949	2025-09-01	lunes	A	Tarde	Pollo BBQ	16.9	28.1	200.4	0	Bueno
+P00950	2025-11-13	jueves	A	Noche	Hawaiana	12.8	33.4	209.8	1	Bueno
+P00951	2025-03-18	martes	A	Tarde	Hawaiana	10.7	27.2	209	0	Bueno
+P00952	2025-08-03	domingo	A	Tarde	Pollo BBQ	11.7	30.8	205	0	Bueno
+P00953	2025-08-02	sábado	A	Noche	Hawaiana	10.1	17	209.1	1	Bueno
+P00954	2025-06-27	viernes	A	Tarde	Vegetariana	10	20.9	207.9	0	Regular
+P00955	2025-07-10	jueves	A	Tarde	Pollo BBQ	6.7	25.8	206.5	0	Regular
+P00956	2025-08-03	domingo	A	Noche	Vegetariana	8.5	24.8	213.8	0	Bueno
+P00957	2025-12-13	sábado	A	Tarde	Pepperoni	8.8	21	199.9	0	Bueno
+P00958	2025-04-27	domingo	A	Tarde	Hawaiana	12.6	32.1	198.9	0	Bueno
+P00959	2025-10-07	martes	A	Noche	Hawaiana	13.5	32.3	204.2	1	Regular
+P00960	2025-03-07	viernes	A	Tarde	Hawaiana	15.6	18.3	201.1	0	Bueno
+P00961	2025-06-15	domingo	A	Noche	Hawaiana	12.6	29.5	200.7	0	Bueno
+P00962	2025-09-02	martes	A	Noche	Vegetariana	11.6	24.1	208.4	1	Bueno
+P00963	2025-05-09	viernes	A	Noche	Pollo BBQ	10.1	30.5	211.7	0	Bueno
+P00964	2025-11-24	lunes	A	Tarde	Pollo BBQ	12.8	32.1	203.6	1	Bueno
+P00965	2025-03-18	martes	A	Noche	Pollo BBQ	11.3	27.4	206.7	0	Regular
+P00966	2025-05-13	martes	A	Tarde	Hawaiana	9.3	24.3	219.8	0	Bueno
+P00967	2025-07-01	martes	A	Noche	Pollo BBQ	11	30.8	203.9	0	Bueno
+P00968	2025-10-25	sábado	A	Mañana	Hawaiana	11.2	21.9	205	0	Bueno
+P00969	2025-07-10	jueves	A	Noche	Hawaiana	15.2	33.8	207.8	0	Malo
+P00970	2025-12-26	viernes	A	Tarde	Vegetariana	11.5	18.9	219.6	0	Bueno
+P00971	2025-02-16	domingo	A	Noche	Pepperoni	14.1	25.8	204.7	0	Regular
+P00972	2025-06-15	domingo	A	Noche	Pollo BBQ	13.4	25.8	201	0	Bueno
+P00973	2025-10-28	martes	A	Tarde	Pollo BBQ	13.2	28.1	218.7	0	Bueno
+P00974	2025-03-07	viernes	B	Mañana	Vegetariana	13.4	24.6	197.3	0	Bueno
+P00975	2025-04-29	martes	A	Tarde	Hawaiana	14.6	21	198.2	0	Bueno
+P00976	2025-09-01	lunes	A	Tarde	Pollo BBQ	11.8	37.1	204.2	1	Malo
+P00977	2025-05-11	domingo	A	Noche	Hawaiana	12.3	29.5	215.9	0	Regular
+P00978	2025-12-19	viernes	A	Noche	Pollo BBQ	11.5	24.8	206.1	1	Bueno
+P00979	2025-11-21	viernes	A	Noche	Pepperoni	14.3	24.7	205.8	0	Bueno
+P00980	2025-12-04	jueves	A	Mañana	Vegetariana	13.6	26.4	213.3	0	Regular
+P00981	2025-11-12	miércoles	A	Noche	Pepperoni	13.4	31	211.9	0	Bueno
+P00982	2025-05-13	martes	B	Tarde	Pollo BBQ	12	24.9	214.2	0	Bueno
+P00983	2025-04-02	miércoles	A	Noche	Pepperoni	12.3	32.8	210.7	0	Regular
+P00984	2025-04-28	lunes	A	Noche	Pollo BBQ	10.9	27.3	200.4	0	Bueno
+P00985	2025-12-14	domingo	A	Tarde	Pepperoni	13.1	25.3	209.5	0	Regular
+P00986	2025-12-15	lunes	A	Tarde	Vegetariana	11.4	25.9	216.5	0	Bueno
+P00987	2025-08-17	domingo	A	Mañana	Hawaiana	11.8	30.5	211.1	1	Bueno
+P00988	2025-08-26	martes	B	Noche	Vegetariana	8.1	20.5	215.4	0	Bueno
+P00989	2025-08-24	domingo	A	Tarde	Hawaiana	14.5	32	210.4	1	Regular
+P00990	2025-02-24	lunes	A	Mañana	Pollo BBQ	13.2	23.9	204.9	0	Bueno
+P00991	2025-05-11	domingo	A	Tarde	Pepperoni	11.4	25.9	215.3	0	Bueno
+P00992	2025-10-05	domingo	A	Noche	Vegetariana	13.3	33.6	209.7	0	Bueno
+P00993	2025-10-08	miércoles	A	Tarde	Vegetariana	13.8	21.6	215.7	0	Bueno
+P00994	2025-06-29	domingo	B	Noche	Pepperoni	10.3	27	217.5	1	Bueno
+P00995	2025-11-07	viernes	B	Noche	Vegetariana	10.8	19.7	226.2	0	Bueno
+P00996	2025-03-16	domingo	A	Noche	Vegetariana	12.1	13.4	217.3	1	Bueno
+P00997	2025-06-05	jueves	A	Tarde	Pollo BBQ	10.9	29.3	211.9	0	Regular
+P00998	2025-03-19	miércoles	A	Noche	Vegetariana	8.8	19.7	204.4	0	Bueno
+P00999	2025-11-25	martes	A	Noche	Pollo BBQ	12.8	31.6	204.6	1	Regular
+P01000	2025-09-06	sábado	A	Mañana	Pollo BBQ	12	27.6	219.4	0	Bueno
