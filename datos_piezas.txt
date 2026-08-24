@@ -1,0 +1,241 @@
+id_pieza	abMaquina	abturno	aboperador	ablote_material	abtemperatura_amb	abvibracion	abLongitud	abfuera_especificacion_longitud	abPeso	abfuera_especificacion_peso	abCiudad	abPunto_venta	abTipo_cliente	abLatitud	abLongitud_geo	abFecha_entrega
+M1-202601-0001	ab1	abTarde	abOP5	abL1	ab26.1106771820873	ab3.54968769096437	ab10	ab1	ab251.2	abConforme	abMedellí­n	abSucursal Belén	abCliente	ab6.2226445903	ab-75.600086953	ab2026-02-27
+M1-202601-0002	ab1	abNoche	abOP6	abL2	ab23.4161584861653	ab3.66243870607242	ab9.4	ab1	ab250.2	abConforme	abMedellí­n	abSucursal Belén	abDistribuidor	ab6.233980159	ab-75.5950816563	ab2026-03-30
+M1-202601-0003	ab1	abMañana	abOP5	abL1	ab22.3517812476098	ab3.64886180683687	ab8.1	ab0	ab254.6	abConforme	abMedellí­n	abCliente El Poblado	abTienda	ab6.1970453559	ab-75.5559991671	ab2026-02-25
+M1-202601-0004	ab1	abNoche	abOP5	abL3	ab26.4325004770419	ab3.09373644737401	ab9.5	ab1	ab253	abConforme	abBogotá	abTienda Kennedy	abTienda	ab4.6273109771	ab-74.1625401437	ab2026-02-12
+M1-202601-0005	ab1	abNoche	abOP1	abL3	ab24.4394568090193	ab3.65426797061172	ab9	ab0	ab252	abConforme	abBogotá	abSucursal Usaquén	abCliente	ab4.6909833747	ab-74.0328172598	ab2026-03-08
+M1-202601-0006	ab1	abTarde	abOP2	abL2	ab24.1499990538825	ab3.66741807053904	ab9.8	ab1	ab250.7	abConforme	abBogotá	abCliente Chapinero	abCliente	ab4.6384349729	ab-74.0666557066	ab2026-02-25
+M1-202601-0007	ab1	abMañana	abOP1	abL4	ab19.7191630323002	ab3.54087074645335	ab9.2	ab0	ab256.2	abNo conforme	abBogotá	abTienda Kennedy	abDistribuidor	ab4.6211897861	ab-74.1465875673	ab2026-01-22
+M1-202601-0008	ab1	abNoche	abOP2	abL1	ab26.9419444730329	ab3.86172715507641	ab9	ab0	ab253.1	abConforme	abCali	abPunto Valle del Lili	abCliente	ab3.3782161701	ab-76.5318573557	ab2026-01-17
+M1-202601-0009	ab1	abMañana	abOP5	abL4	ab22.3244647876154	ab3.62399709155638	ab9.5	ab1	ab256.3	abNo conforme	abBogotá	abSucursal Usaquén	abCliente	ab4.7099512298	ab-74.0216633406	ab2026-03-25
+M1-202601-0010	ab1	abMañana	abOP5	abL2	ab24.7910197357027	ab2.95493549956275	ab8.7	ab0	ab254.7	abConforme	abMedellí­n	abSucursal Belén	abDistribuidor	ab6.2205656273	ab-75.5861030164	ab2026-01-14
+M1-202601-0011	ab1	abNoche	abOP1	abL1	ab25.7728433533161	ab2.59965420764653	ab9.2	ab0	ab253.9	abConforme	abCali	abPunto Valle del Lili	abTienda	ab3.3866940329	ab-76.5247206628	ab2026-03-05
+M1-202601-0012	ab1	abMañana	abOP2	abL4	ab26.4020851035572	ab4.69710137131607	ab8.7	ab0	ab251	abConforme	abCali	abPunto Valle del Lili	abTienda	ab3.3819572241	ab-76.5367814983	ab2026-01-24
+M1-202601-0013	ab1	abMañana	abOP5	abL1	ab26.6336113625869	ab4.02356929911897	ab9	ab0	ab257.1	abNo conforme	abCali	abPunto Valle del Lili	abCliente	ab3.3835119861	ab-76.537629927	ab2026-01-08
+M1-202601-0014	ab1	abMañana	abOP4	abL1	ab23.6139191636684	ab3.64452718434681	ab9.3	ab0	ab253.8	abConforme	abMedellí­n	abSucursal Belén	abTienda	ab6.2200125233	ab-75.6075790523	ab2026-01-20
+M1-202601-0015	ab1	abTarde	abOP2	abL3	ab25.101152498639	ab3.33294732513485	ab9.2	ab0	ab250.6	abConforme	abCali	abSucursal San Fernando	abCliente	ab3.4285417089	ab-76.5453218532	ab2026-03-15
+M1-202601-0016	ab1	abNoche	abOP6	abL1	ab19.8224541124482	ab3.28711727857772	ab8.7	ab0	ab251.3	abConforme	abCali	abCliente Granada	abDistribuidor	ab3.4677999744	ab-76.5392853761	ab2026-03-27
+M1-202601-0017	ab1	abTarde	abOP2	abL2	ab23.9501804129463	ab3.85665900151848	ab9.3	ab0	ab256.8	abNo conforme	abCali	abPunto Valle del Lili	abDistribuidor	ab3.376414678	ab-76.5521065809	ab2026-02-19
+M1-202601-0018	ab1	abTarde	abOP3	abL2	ab25.7769153028009	ab3.17600632581613	ab9.3	ab0	ab254.6	abConforme	abMedellí­n	abSucursal Belén	abCliente	ab6.2260940538	ab-75.5936559847	ab2026-01-17
+M1-202601-0019	ab1	abTarde	abOP1	abL1	ab23.3251376973326	ab3.45055547719813	ab8.8	ab0	ab249.7	abConforme	abBogotá	abCliente Chapinero	abDistribuidor	ab4.640815921	ab-74.0639131726	ab2026-01-09
+M1-202601-0020	ab1	abNoche	abOP1	abL3	ab21.9385778906867	ab3.85317507213116	ab9.3	ab0	ab247.7	abConforme	abMedellí­n	abTienda Laureles	abTienda	ab6.2309457539	ab-75.6049968935	ab2026-02-04
+M1-202601-0021	ab1	abNoche	abOP5	abL1	ab24.8616663444631	ab3.1054115468429	ab9	ab0	ab255	abConforme	abCali	abCliente Granada	abDistribuidor	ab3.4546985923	ab-76.5383886467	ab2026-03-26
+M1-202601-0022	ab1	abMañana	abOP5	abL2	ab24.4178148036391	ab3.67017679014851	ab9.8	ab1	ab250.8	abConforme	abBogotá	abSucursal Usaquén	abCliente	ab4.7147023374	ab-74.0291090821	ab2026-03-04
+M1-202601-0023	ab1	abMañana	abOP3	abL3	ab20.9035194858625	ab4.06430422912635	ab9.5	ab1	ab251.1	abConforme	abCali	abCliente Granada	abTienda	ab3.4719548225	ab-76.5419492232	ab2026-02-26
+M1-202601-0024	ab1	abNoche	abOP2	abL1	ab21.6523955630527	ab3.97949581432956	ab9.2	ab0	ab248.1	abConforme	abCali	abPunto Valle del Lili	abDistribuidor	ab3.3831254897	ab-76.5504109667	ab2026-01-16
+M1-202601-0025	ab1	abMañana	abOP5	abL1	ab26.3576304086957	ab3.74805667498652	ab9	ab0	ab256	abNo conforme	abCali	abPunto Valle del Lili	abDistribuidor	ab3.3653473518	ab-76.5404416073	ab2026-02-21
+M1-202601-0026	ab1	abNoche	abOP6	abL2	ab23.1613811155194	ab2.75324458003943	ab8.8	ab0	ab251.9	abConforme	abCali	abCliente Granada	abCliente	ab3.4513422627	ab-76.536227153	ab2026-03-31
+M1-202601-0027	ab1	abMañana	abOP5	abL2	ab20.2948494006362	ab3.43319004886024	ab9.2	ab0	ab248.6	abConforme	abBogotá	abSucursal Usaquén	abDistribuidor	ab4.7172417743	ab-74.0212519938	ab2026-02-04
+M1-202601-0028	ab1	abMañana	abOP3	abL3	ab24.9718529470337	ab3.17405738763868	ab9.5	ab1	ab255	abConforme	abCali	abCliente Granada	abTienda	ab3.4606838999	ab-76.5390960258	ab2026-02-23
+M1-202601-0029	ab1	abTarde	abOP3	abL2	ab23.0561748134394	ab3.50171576754098	ab8.9	ab0	ab252.2	abConforme	abBogotá	abSucursal Usaquén	abCliente	ab4.7019204988	ab-74.0459056652	ab2026-01-26
+M1-202601-0030	ab1	abTarde	abOP1	abL3	ab25.6934771820974	ab3.32680218775656	ab8.9	ab0	ab250.1	abConforme	abBogotá	abTienda Kennedy	abTienda	ab4.6176589424	ab-74.1427280138	ab2026-01-13
+M1-202601-0031	ab1	abNoche	abOP4	abL2	ab25.8515411840622	ab2.74921473904577	ab8.8	ab0	ab249.5	abConforme	abCali	abPunto Valle del Lili	abCliente	ab3.3782480967	ab-76.5432623612	ab2026-02-05
+M1-202601-0032	ab1	abNoche	abOP2	abL4	ab23.3583388381203	ab3.57757368689253	ab9.3	ab0	ab252.4	abConforme	abMedellí­n	abCliente El Poblado	abCliente	ab6.2019233406	ab-75.5612463338	ab2026-02-16
+M1-202601-0033	ab1	abMañana	abOP1	abL4	ab21.3980527327063	ab2.96469382758441	ab9	ab0	ab255	abConforme	abBogotá	abSucursal Usaquén	abTienda	ab4.6949029076	ab-74.0302072122	ab2026-01-25
+M1-202601-0034	ab1	abNoche	abOP2	abL4	ab28.919136020643	ab3.09188039065616	ab9.6	ab1	ab251.8	abConforme	abCali	abSucursal San Fernando	abCliente	ab3.4385362349	ab-76.5484066652	ab2026-01-28
+M1-202601-0035	ab1	abTarde	abOP4	abL1	ab25.5567300075137	ab3.91364991013503	ab9.4	ab1	ab250.6	abConforme	abMedellí­n	abCliente El Poblado	abTienda	ab6.202285572	ab-75.5746238095	ab2026-01-29
+M1-202601-0036	ab1	abMañana	abOP5	abL1	ab25.3797618252257	ab3.74285732664911	ab9.4	ab1	ab254.7	abConforme	abMedellí­n	abTienda Laureles	abCliente	ab6.253511942	ab-75.5963317823	ab2026-03-18
+M1-202601-0037	ab1	abNoche	abOP1	abL1	ab20.5910689023885	ab3.22112862332444	ab8.7	ab0	ab254.6	abConforme	abCali	abPunto Valle del Lili	abTienda	ab3.3635174982	ab-76.534376792	ab2026-02-13
+M1-202601-0038	ab1	abTarde	abOP1	abL2	ab26.2107442693671	ab3.87272722213945	ab8.8	ab0	ab254.9	abConforme	abCali	abPunto Valle del Lili	abCliente	ab3.3853609021	ab-76.5376747295	ab2026-02-23
+M1-202601-0039	ab1	abTarde	abOP1	abL1	ab23.3722943706282	ab3.89541064889645	ab8.4	ab0	ab252.9	abConforme	abBogotá	abTienda Kennedy	abDistribuidor	ab4.6255228484	ab-74.1488113599	ab2026-03-26
+M1-202601-0040	ab1	abTarde	abOP5	abL4	ab23.3066145090426	ab3.63319927565957	ab9	ab0	ab250.3	abConforme	abBogotá	abSucursal Usaquén	abCliente	ab4.7106766178	ab-74.0247191721	ab2026-01-25
+M1-202601-0041	ab1	abTarde	abOP6	abL3	ab26.0768809545964	ab4.29083886756045	ab9	ab0	ab253.2	abConforme	abCali	abPunto Valle del Lili	abCliente	ab3.3805715652	ab-76.5386953138	ab2026-01-29
+M1-202601-0042	ab1	abMañana	abOP6	abL2	ab22.9768702920776	ab3.78626233409535	ab9.1	ab0	ab251.2	abConforme	abBogotá	abCliente Chapinero	abDistribuidor	ab4.6469358219	ab-74.0685663015	ab2026-01-20
+M1-202601-0043	ab1	abMañana	abOP6	abL4	ab26.0290564993766	ab4.02289537183984	ab8.6	ab0	ab246.5	abConforme	abBogotá	abTienda Kennedy	abTienda	ab4.6315143855	ab-74.1683949947	ab2026-01-13
+M1-202601-0044	ab1	abMañana	abOP3	abL3	ab25.2233987553468	ab3.47574697550011	ab8.8	ab0	ab253	abConforme	abCali	abSucursal San Fernando	abCliente	ab3.4178139605	ab-76.5595894732	ab2026-03-18
+M1-202601-0045	ab1	abTarde	abOP1	abL4	ab22.455499973319	ab3.2883700659349	ab8.7	ab0	ab254.2	abConforme	abBogotá	abTienda Kennedy	abTienda	ab4.6192173054	ab-74.1387519068	ab2026-02-04
+M1-202601-0046	ab1	abTarde	abOP2	abL3	ab25.3618311647741	ab4.29134448923485	ab9.7	ab1	ab253.1	abConforme	abBogotá	abTienda Kennedy	abTienda	ab4.6338461674	ab-74.1653633936	ab2026-02-24
+M1-202601-0047	ab1	abTarde	abOP2	abL2	ab23.5848330447087	ab3.67772916810987	ab8.7	ab0	ab252.7	abConforme	abCali	abCliente Granada	abTienda	ab3.4540549946	ab-76.5343399252	ab2026-01-05
+M1-202601-0048	ab1	abMañana	abOP1	abL3	ab25.6748530145586	ab3.20957828691284	ab8.8	ab0	ab252.4	abConforme	abMedellí­n	abTienda Laureles	abTienda	ab6.2536180116	ab-75.5876634636	ab2026-02-25
+M1-202601-0049	ab1	abTarde	abOP2	abL4	ab23.4162525681425	ab3.38134355005705	ab8.9	ab0	ab253.3	abConforme	abBogotá	abTienda Kennedy	abTienda	ab4.6219329162	ab-74.146323826	ab2026-03-18
+M1-202601-0050	ab1	abNoche	abOP1	abL3	ab24.6412021604506	ab2.89281501268668	ab10.4	ab1	ab250.6	abConforme	abMedellí­n	abCliente El Poblado	abCliente	ab6.2144322806	ab-75.5540400353	ab2026-03-28
+M1-202601-0051	ab1	abTarde	abOP5	abL3	ab21.2604484782747	ab3.67746499305847	ab9.3	ab0	ab249.1	abConforme	abMedellí­n	abTienda Laureles	abDistribuidor	ab6.2571804324	ab-75.5909639612	ab2026-02-13
+M1-202601-0052	ab1	abMañana	abOP2	abL3	ab24.5824593165204	ab3.67341138587174	ab9.6	ab1	ab252.5	abConforme	abMedellí­n	abCliente El Poblado	abTienda	ab6.1972733899	ab-75.5575138995	ab2026-03-13
+M1-202601-0053	ab1	abNoche	abOP3	abL2	ab26.7710909371635	ab4.01137013425543	ab9	ab0	ab250.4	abConforme	abBogotá	abCliente Chapinero	abTienda	ab4.6374311706	ab-74.0546827611	ab2026-02-07
+M1-202601-0054	ab1	abTarde	abOP5	abL2	ab24.3380904713055	ab3.67679005444998	ab9.3	ab0	ab242.3	abNo conforme	abBogotá	abSucursal Usaquén	abCliente	ab4.7083467157	ab-74.0282166105	ab2026-01-24
+M1-202601-0055	ab1	abMañana	abOP4	abL3	ab26.1378425683505	ab3.90699065176176	ab9.2	ab0	ab249	abConforme	abBogotá	abTienda Kennedy	abDistribuidor	ab4.6255684579	ab-74.144803275	ab2026-03-21
+M1-202601-0056	ab1	abTarde	abOP5	abL4	ab20.8282216815759	ab3.34835691940618	ab8.7	ab0	ab255.7	abNo conforme	abMedellí­n	abSucursal Belén	abTienda	ab6.2406320293	ab-75.6120143595	ab2026-03-16
+M1-202601-0057	ab1	abTarde	abOP2	abL1	ab23.2322998160525	ab3.31000338148807	ab8.9	ab0	ab255.3	abNo conforme	abCali	abPunto Valle del Lili	abDistribuidor	ab3.389843142	ab-76.5407925635	ab2026-03-28
+M1-202601-0058	ab1	abNoche	abOP1	abL2	ab25.7296688352255	ab3.49223072553972	ab7.9	ab1	ab250	abConforme	abBogotá	abCliente Chapinero	abCliente	ab4.6357146693	ab-74.0538535284	ab2026-02-17
+M1-202601-0059	ab1	abNoche	abOP4	abL2	ab25.1225006821885	ab4.35709984188329	ab8.9	ab0	ab255.3	abNo conforme	abBogotá	abTienda Kennedy	abDistribuidor	ab4.6264935558	ab-74.1491795895	ab2026-01-15
+M1-202601-0060	ab1	abMañana	abOP6	abL2	ab21.1203258821928	ab3.49253411677016	ab9	ab0	ab249	abConforme	abCali	abPunto Valle del Lili	abCliente	ab3.3817475536	ab-76.5255656304	ab2026-03-06
+M1-202601-0061	ab1	abMañana	abOP2	abL4	ab21.9876677065754	ab3.74743412374339	ab8.9	ab0	ab251.4	abConforme	abCali	abPunto Valle del Lili	abCliente	ab3.363308205	ab-76.5481332471	ab2026-02-23
+M1-202601-0062	ab1	abTarde	abOP6	abL1	ab22.1192899468918	ab3.11164567807459	ab10	ab1	ab252	abConforme	abCali	abCliente Granada	abTienda	ab3.4773883205	ab-76.5374256163	ab2026-01-10
+M1-202601-0063	ab1	abMañana	abOP5	abL1	ab24.1069026643076	ab3.71297679788669	ab8.8	ab0	ab254.2	abConforme	abMedellí­n	abSucursal Belén	abDistribuidor	ab6.2231929698	ab-75.5885723116	ab2026-03-27
+M1-202601-0064	ab1	abTarde	abOP1	abL1	ab22.8521090087166	ab4.22913381604487	ab8.8	ab0	ab253.5	abConforme	abCali	abSucursal San Fernando	abCliente	ab3.4192861531	ab-76.5300310977	ab2026-02-11
+M1-202601-0065	ab1	abNoche	abOP5	abL1	ab24.4410976601511	ab3.45302229449934	ab9.5	ab1	ab248.9	abConforme	abCali	abPunto Valle del Lili	abCliente	ab3.3812897484	ab-76.5436284334	ab2026-02-10
+M1-202601-0066	ab1	abMañana	abOP1	abL2	ab22.3309685310234	ab4.07491255529971	ab9.6	ab1	ab250.6	abConforme	abMedellí­n	abSucursal Belén	abTienda	ab6.2392078206	ab-75.6126642511	ab2026-01-25
+M1-202601-0067	ab1	abNoche	abOP4	abL2	ab23.739291675476	ab3.23710740828408	ab8.7	ab0	ab251.8	abConforme	abCali	abCliente Granada	abTienda	ab3.4582081823	ab-76.5171348814	ab2026-02-21
+M1-202601-0068	ab1	abNoche	abOP3	abL4	ab25.1346588835719	ab3.23298161497152	ab8.4	ab0	ab253.4	abConforme	abMedellí­n	abSucursal Belén	abTienda	ab6.2265932433	ab-75.6082494282	ab2026-02-06
+M1-202601-0069	ab1	abNoche	abOP1	abL2	ab26.4169336400479	ab3.28433471087161	ab8.8	ab0	ab255	abConforme	abCali	abCliente Granada	abDistribuidor	ab3.4562130039	ab-76.5454190711	ab2026-01-27
+M1-202601-0070	ab1	abMañana	abOP6	abL2	ab24.2544392968056	ab2.94405955617943	ab9.2	ab0	ab250.8	abConforme	abBogotá	abTienda Kennedy	abTienda	ab4.6150991874	ab-74.1506793955	ab2026-03-14
+M1-202601-0071	ab1	abNoche	abOP1	abL3	ab22.0971809136177	ab3.3469673729202	ab8.8	ab0	ab253.1	abConforme	abBogotá	abSucursal Usaquén	abDistribuidor	ab4.6989636281	ab-74.0369601467	ab2026-03-24
+M1-202601-0072	ab1	abMañana	abOP2	abL2	ab22.6749711220034	ab4.46301137202267	ab9.5	ab1	ab252.6	abConforme	abBogotá	abSucursal Usaquén	abDistribuidor	ab4.6933404144	ab-74.03076213	ab2026-02-04
+M1-202601-0073	ab1	abNoche	abOP4	abL2	ab24.6891897087776	ab3.48810527840465	ab8.7	ab0	ab251.7	abConforme	abCali	abSucursal San Fernando	abCliente	ab3.4338816116	ab-76.5358373394	ab2026-02-03
+M1-202601-0074	ab1	abTarde	abOP2	abL1	ab21.8402915582756	ab4.22128968615891	ab8.9	ab0	ab252	abConforme	abMedellí­n	abSucursal Belén	abCliente	ab6.2307184614	ab-75.6106320221	ab2026-03-04
+M1-202601-0075	ab1	abMañana	abOP1	abL3	ab24.4193052084189	ab3.65427319017128	ab8.8	ab0	ab250.7	abConforme	abMedellí­n	abCliente El Poblado	abCliente	ab6.2221510531	ab-75.5593493791	ab2026-03-28
+M1-202601-0076	ab1	abTarde	abOP5	abL3	ab21.3941608696728	ab3.48278310557997	ab8.8	ab0	ab252	abConforme	abMedellí­n	abCliente El Poblado	abTienda	ab6.2040396385	ab-75.5517410548	ab2026-03-17
+M1-202601-0077	ab1	abMañana	abOP5	abL4	ab23.2603775290599	ab3.75518247105239	ab9.6	ab1	ab255.7	abNo conforme	abBogotá	abTienda Kennedy	abCliente	ab4.6266414132	ab-74.1602669205	ab2026-03-20
+M1-202601-0078	ab1	abMañana	abOP1	abL1	ab22.7141258736616	ab3.23792682999667	ab9.2	ab0	ab246.9	abConforme	abBogotá	abCliente Chapinero	abCliente	ab4.6360759354	ab-74.0726178024	ab2026-02-18
+M1-202601-0079	ab1	abMañana	abOP1	abL2	ab26.1823270785145	ab4.0988502412901	ab9.1	ab0	ab251.5	abConforme	abMedellí­n	abTienda Laureles	abTienda	ab6.2550032054	ab-75.6044169356	ab2026-02-04
+M1-202601-0080	ab1	abTarde	abOP5	abL3	ab24.6731899032216	ab3.10361437733465	ab9	ab0	ab249.8	abConforme	abBogotá	abTienda Kennedy	abTienda	ab4.6245698192	ab-74.1664510983	ab2026-01-29
+M1-202601-0081	ab1	abTarde	abOP5	abL2	ab23.3703353848732	ab3.96050869055055	ab9.2	ab0	ab254	abConforme	abMedellí­n	abSucursal Belén	abTienda	ab6.2376769805	ab-75.5959768725	ab2026-03-12
+M1-202601-0082	ab1	abMañana	abOP2	abL1	ab23.6418560395152	ab3.70734778094337	ab9.2	ab0	ab253.4	abConforme	abCali	abSucursal San Fernando	abDistribuidor	ab3.4229523022	ab-76.5450048885	ab2026-02-14
+M1-202601-0083	ab1	abMañana	abOP2	abL1	ab24.104535655165	ab3.66232583688	ab8.9	ab0	ab247.1	abConforme	abMedellí­n	abSucursal Belén	abTienda	ab6.2292428489	ab-75.5978712291	ab2026-02-03
+M1-202601-0084	ab1	abNoche	abOP6	abL3	ab25.2217627028247	ab3.92682613517973	ab8.6	ab0	ab252	abConforme	abCali	abSucursal San Fernando	abCliente	ab3.4409061428	ab-76.5330488524	ab2026-03-14
+M1-202601-0085	ab1	abTarde	abOP5	abL1	ab23.4124065150911	ab3.21345192372803	ab8.6	ab0	ab257.9	abNo conforme	abMedellí­n	abTienda Laureles	abTienda	ab6.2310795	ab-75.6080988692	ab2026-02-16
+M1-202601-0086	ab1	abMañana	abOP1	abL1	ab18.6405675971198	ab3.04758722899957	ab8.8	ab0	ab252.4	abConforme	abCali	abCliente Granada	abCliente	ab3.4720524449	ab-76.5407876856	ab2026-01-01
+M1-202601-0087	ab1	abNoche	abOP1	abL2	ab21.5243111512082	ab3.46866506942221	ab9.6	ab1	ab255	abConforme	abCali	abCliente Granada	abCliente	ab3.4566342757	ab-76.5314865658	ab2026-01-10
+M1-202601-0088	ab1	abNoche	abOP5	abL2	ab25.1531372241243	ab4.14573152769892	ab8.8	ab0	ab252.8	abConforme	abCali	abCliente Granada	abTienda	ab3.4585401308	ab-76.5398098033	ab2026-02-10
+M1-202601-0089	ab1	abNoche	abOP5	abL2	ab26.271781177783	ab3.85973199264421	ab8.5	ab0	ab255.2	abNo conforme	abBogotá	abTienda Kennedy	abCliente	ab4.6220633838	ab-74.1513369299	ab2026-02-10
+M1-202601-0090	ab1	abTarde	abOP4	abL3	ab25.3882835728928	ab4.62619278943523	ab8.9	ab0	ab251.1	abConforme	abCali	abCliente Granada	abDistribuidor	ab3.4487210989	ab-76.5324322627	ab2026-02-08
+M1-202601-0091	ab1	abTarde	abOP5	abL3	ab24.5731423347407	ab3.14815046180923	ab8.6	ab0	ab253.1	abConforme	abBogotá	abSucursal Usaquén	abDistribuidor	ab4.7035641477	ab-74.0295194193	ab2026-03-28
+M1-202601-0092	ab1	abMañana	abOP5	abL2	ab20.0038653734654	ab3.64767670755187	ab9.1	ab0	ab252	abConforme	abBogotá	abTienda Kennedy	abTienda	ab4.6330704025	ab-74.1642754305	ab2026-01-06
+M1-202601-0093	ab1	abTarde	abOP4	abL3	ab26.299556478498	ab4.9757063831522	ab9.7	ab1	ab253.2	abConforme	abCali	abSucursal San Fernando	abDistribuidor	ab3.4448970068	ab-76.5553287371	ab2026-02-01
+M1-202601-0094	ab1	abMañana	abOP2	abL4	ab26.8717210951851	ab3.60888419297516	ab8.8	ab0	ab247.2	abConforme	abBogotá	abSucursal Usaquén	abCliente	ab4.688765801	ab-74.0342315066	ab2026-03-02
+M1-202601-0095	ab1	abTarde	abOP5	abL1	ab23.0411198504781	ab4.00117308906104	ab8.9	ab0	ab249.4	abConforme	abCali	abCliente Granada	abCliente	ab3.4772723481	ab-76.5264096915	ab2026-03-21
+M1-202601-0096	ab1	abTarde	abOP1	abL1	ab28.5782126755605	ab3.98224954908354	ab8.8	ab0	ab251.8	abConforme	abBogotá	abCliente Chapinero	abTienda	ab4.6426866287	ab-74.0604971654	ab2026-03-31
+M1-202601-0097	ab1	abNoche	abOP1	abL3	ab17.9244357047162	ab4.3249071708666	ab9.4	ab1	ab251.3	abConforme	abMedellí­n	abSucursal Belén	abTienda	ab6.243774152	ab-75.58522041	ab2026-01-16
+M1-202601-0098	ab1	abTarde	abOP2	abL2	ab21.9129481053044	ab3.62488497572532	ab9.1	ab0	ab254.3	abConforme	abCali	abPunto Valle del Lili	abCliente	ab3.3813282275	ab-76.528906606	ab2026-01-02
+M1-202601-0099	ab1	abMañana	abOP1	abL3	ab24.4930056090862	ab4.14242840142297	ab8.9	ab0	ab251.5	abConforme	abCali	abCliente Granada	abCliente	ab3.4610111098	ab-76.5266233	ab2026-02-03
+M1-202601-0100	ab1	abMañana	abOP2	abL2	ab24.1401298045863	ab2.81417197899157	ab9.2	ab0	ab252.2	abConforme	abBogotá	abTienda Kennedy	abTienda	ab4.6371943442	ab-74.1443750267	ab2026-03-19
+M1-202601-0101	ab1	abMañana	abOP5	abL1	ab21.0324241844959	ab3.26165713003372	ab8.4	ab0	ab254.4	abConforme	abCali	abPunto Valle del Lili	abCliente	ab3.3618849759	ab-76.5494580674	ab2026-01-30
+M1-202601-0102	ab1	abTarde	abOP1	abL4	ab27.2634541809611	ab3.63493001081816	ab8.7	ab0	ab253.7	abConforme	abCali	abCliente Granada	abDistribuidor	ab3.4697709506	ab-76.539376644	ab2026-01-28
+M1-202601-0103	ab1	abMañana	abOP3	abL1	ab22.6472833482193	ab3.33445268498586	ab9.8	ab1	ab251.6	abConforme	abMedellí­n	abCliente El Poblado	abTienda	ab6.2042615848	ab-75.5702535903	ab2026-03-26
+M1-202601-0104	ab1	abNoche	abOP2	abL2	ab21.0724842407242	ab3.70089822809073	ab9.6	ab1	ab253.6	abConforme	abMedellí­n	abSucursal Belén	abTienda	ab6.2404775247	ab-75.6004819213	ab2026-03-28
+M1-202601-0105	ab1	abMañana	abOP2	abL3	ab23.9490450330509	ab2.82797822553261	ab8.4	ab0	ab252.4	abConforme	abCali	abSucursal San Fernando	abTienda	ab3.4338662418	ab-76.5406389727	ab2026-02-27
+M1-202601-0106	ab1	abNoche	abOP5	abL3	ab26.435827024891	ab3.84085249198796	ab9.6	ab1	ab253.2	abConforme	abBogotá	abCliente Chapinero	abCliente	ab4.6418363609	ab-74.0558416387	ab2026-01-30
+M1-202601-0107	ab1	abNoche	abOP4	abL2	ab22.3433540809422	ab3.37835723938962	ab9	ab0	ab254	abConforme	abCali	abCliente Granada	abTienda	ab3.4716284464	ab-76.539135964	ab2026-03-30
+M1-202601-0108	ab1	abMañana	abOP1	abL4	ab22.5637485593622	ab3.39172772553004	ab8.7	ab0	ab250.7	abConforme	abBogotá	abCliente Chapinero	abDistribuidor	ab4.6363493408	ab-74.0555159858	ab2026-02-08
+M1-202601-0109	ab1	abMañana	abOP5	abL1	ab23.911025032522	ab3.53233976884691	ab9.2	ab0	ab248.7	abConforme	abMedellí­n	abTienda Laureles	abTienda	ab6.2541632332	ab-75.6087356699	ab2026-03-11
+M1-202601-0110	ab1	abTarde	abOP2	abL1	ab21.8763037100036	ab3.33676331131965	ab9.6	ab1	ab254.3	abConforme	abCali	abSucursal San Fernando	abCliente	ab3.4261056522	ab-76.540067977	ab2026-03-09
+M1-202601-0111	ab1	abNoche	abOP5	abL3	ab23.5566482849702	ab2.82307131156793	ab9.2	ab0	ab248.7	abConforme	abBogotá	abCliente Chapinero	abDistribuidor	ab4.656193303	ab-74.0557484125	ab2026-03-08
+M1-202601-0112	ab1	abTarde	abOP6	abL2	ab24.7891830950626	ab3.87181123139969	ab9.2	ab0	ab252.6	abConforme	abCali	abPunto Valle del Lili	abCliente	ab3.3896245771	ab-76.5394589322	ab2026-02-15
+M1-202601-0113	ab1	abTarde	abOP2	abL1	ab25.7788536685043	ab3.61209464537336	ab8.7	ab0	ab251.3	abConforme	abCali	abSucursal San Fernando	abTienda	ab3.4202439968	ab-76.553597487	ab2026-02-28
+M1-202601-0114	ab1	abNoche	abOP2	abL2	ab25.7374345450107	ab2.22886504395816	ab9.1	ab0	ab253.9	abConforme	abBogotá	abTienda Kennedy	abTienda	ab4.6383309424	ab-74.1680369535	ab2026-02-17
+M1-202601-0115	ab1	abNoche	abOP6	abL2	ab22.6559163559305	ab4.09838746936169	ab9.6	ab1	ab261.4	abNo conforme	abBogotá	abCliente Chapinero	abCliente	ab4.6576671465	ab-74.0716060191	ab2026-01-10
+M1-202601-0116	ab1	abTarde	abOP4	abL3	ab23.530849903215	ab3.28874619576367	ab9.5	ab1	ab250.7	abConforme	abCali	abSucursal San Fernando	abTienda	ab3.4293552081	ab-76.5322418212	ab2026-01-28
+M1-202601-0117	ab1	abMañana	abOP3	abL2	ab25.7455860071244	ab3.68806933820887	ab9.2	ab0	ab251.9	abConforme	abMedellí­n	abSucursal Belén	abCliente	ab6.225427922	ab-75.5846891044	ab2026-03-17
+M1-202601-0118	ab1	abNoche	abOP4	abL2	ab25.8266724714833	ab3.73151449270746	ab8.7	ab0	ab252.8	abConforme	abBogotá	abCliente Chapinero	abTienda	ab4.6397481611	ab-74.0638240516	ab2026-03-08
+M1-202601-0119	ab1	abMañana	abOP3	abL2	ab24.7944583870171	ab3.12664662854355	ab9	ab0	ab250.3	abConforme	abBogotá	abCliente Chapinero	abTienda	ab4.6506814799	ab-74.0735173236	ab2026-01-01
+M1-202601-0120	ab1	abMañana	abOP3	abL3	ab23.8060288622045	ab2.92063752055455	ab9.3	ab0	ab251.3	abConforme	abBogotá	abTienda Kennedy	abCliente	ab4.6393416557	ab-74.1539171659	ab2026-02-13
+M2-202601-0001	ab2	abMañana	abOP3	abL4	ab19.8402376172148	ab3.68976054365792	ab8.5	ab0	ab243.6	abNo conforme	abMedellí­n	abTienda Laureles	abTienda	ab6.2450914227	ab-75.5851655379	ab2026-02-18
+M2-202601-0002	ab2	abTarde	abOP5	abL2	ab26.7479158856694	ab3.13233739196173	ab9.3	ab0	ab242.3	abNo conforme	abBogotá	abCliente Chapinero	abTienda	ab4.6512087597	ab-74.0678710803	ab2026-02-02
+M2-202601-0003	ab2	abTarde	abOP3	abL4	ab24.2136274024434	ab3.76486332641674	ab8.3	ab0	ab244.8	abNo conforme	abCali	abPunto Valle del Lili	abCliente	ab3.3806720543	ab-76.550188653	ab2026-02-05
+M2-202601-0004	ab2	abTarde	abOP2	abL4	ab23.9469926613509	ab3.45645547165529	ab8.1	ab0	ab248.9	abConforme	abCali	abCliente Granada	abTienda	ab3.4634967738	ab-76.5384830448	ab2026-01-13
+M2-202601-0005	ab2	abMañana	abOP3	abL4	ab23.5327118454347	ab3.2998978515217	ab8.3	ab0	ab248.1	abConforme	abCali	abSucursal San Fernando	abTienda	ab3.433095287	ab-76.5488560134	ab2026-03-20
+M2-202601-0006	ab2	abNoche	abOP1	abL2	ab22.8376732532315	ab3.17467614659832	ab8.1	ab0	ab244.7	abNo conforme	abBogotá	abSucursal Usaquén	abTienda	ab4.6884848144	ab-74.0388226548	ab2026-03-18
+M2-202601-0007	ab2	abTarde	abOP5	abL1	ab22.7086494638739	ab4.06013758817593	ab9.6	ab1	ab246.5	abConforme	abMedellí­n	abCliente El Poblado	abDistribuidor	ab6.1952312995	ab-75.566079545	ab2026-02-15
+M2-202601-0008	ab2	abTarde	abOP6	abL2	ab23.3142458661457	ab2.25337174046474	ab8.4	ab0	ab246.4	abConforme	abBogotá	abTienda Kennedy	abTienda	ab4.6405805205	ab-74.1576246358	ab2026-01-18
+M2-202601-0009	ab2	abTarde	abOP6	abL3	ab20.6505414873426	ab3.29477921923621	ab9	ab0	ab245.8	abConforme	abCali	abPunto Valle del Lili	abTienda	ab3.3837785662	ab-76.5496618384	ab2026-02-19
+M2-202601-0010	ab2	abMañana	abOP1	abL3	ab27.7223754829785	ab4.50567303903957	ab8.5	ab0	ab244.4	abNo conforme	abCali	abSucursal San Fernando	abTienda	ab3.4238324185	ab-76.5582901896	ab2026-01-26
+M2-202601-0011	ab2	abMañana	abOP4	abL3	ab23.8887588348436	ab3.1015971502451	ab8	ab0	ab249.2	abConforme	abBogotá	abCliente Chapinero	abCliente	ab4.653107845	ab-74.0722161109	ab2026-02-05
+M2-202601-0012	ab2	abNoche	abOP2	abL4	ab24.8668128021213	ab3.96647131890745	ab8.8	ab0	ab250	abConforme	abBogotá	abSucursal Usaquén	abCliente	ab4.7076130005	ab-74.017540765	ab2026-02-05
+M2-202601-0013	ab2	abMañana	abOP6	abL1	ab25.0207478668684	ab3.4780274436975	ab9.2	ab0	ab245.9	abConforme	abCali	abCliente Granada	abCliente	ab3.4594576128	ab-76.5322451355	ab2026-02-25
+M2-202601-0014	ab2	abNoche	abOP2	abL3	ab26.3918144050514	ab3.42813055970259	ab7.5	ab1	ab252.9	abConforme	abMedellí­n	abTienda Laureles	abCliente	ab6.2535691449	ab-75.5948653391	ab2026-02-26
+M2-202601-0015	ab2	abMañana	abOP4	abL3	ab21.8321916128629	ab3.24707838834773	ab7.2	ab1	ab251.6	abConforme	abCali	abSucursal San Fernando	abDistribuidor	ab3.4342107025	ab-76.5372362136	ab2026-01-03
+M2-202601-0016	ab2	abMañana	abOP1	abL3	ab21.7097895901041	ab2.97045893589052	ab10.4	ab1	ab246.2	abConforme	abCali	abSucursal San Fernando	abDistribuidor	ab3.4443539795	ab-76.5396707931	ab2026-03-30
+M2-202601-0017	ab2	abNoche	abOP4	abL3	ab24.3104377375852	ab3.26486974544126	ab9.7	ab1	ab244.3	abNo conforme	abCali	abPunto Valle del Lili	abTienda	ab3.3772994196	ab-76.5518175321	ab2026-01-11
+M2-202601-0018	ab2	abNoche	abOP5	abL2	ab23.0154971523719	ab2.99673334852401	ab9.4	ab1	ab249.6	abConforme	abCali	abSucursal San Fernando	abDistribuidor	ab3.4449814433	ab-76.5388468427	ab2026-02-20
+M2-202601-0019	ab2	abNoche	abOP5	abL3	ab28.7340648868005	ab3.44403529574363	ab8	ab0	ab246.4	abConforme	abMedellí­n	abCliente El Poblado	abDistribuidor	ab6.211423841	ab-75.569302153	ab2026-01-30
+M2-202601-0020	ab2	abMañana	abOP3	abL4	ab21.1329948052197	ab2.56213150883247	ab7.1	ab1	ab247.8	abConforme	abBogotá	abSucursal Usaquén	abTienda	ab4.7007039095	ab-74.0200759918	ab2026-01-16
+M2-202601-0021	ab2	abTarde	abOP5	abL1	ab20.7770282500754	ab3.13178097882602	ab9	ab0	ab250.9	abConforme	abCali	abPunto Valle del Lili	abTienda	ab3.3891875597	ab-76.5300410831	ab2026-01-11
+M2-202601-0022	ab2	abMañana	abOP5	abL3	ab25.2496201563887	ab3.80961210095455	ab8.2	ab0	ab248.3	abConforme	abCali	abCliente Granada	abCliente	ab3.4688711371	ab-76.5427238908	ab2026-03-07
+M2-202601-0023	ab2	abTarde	abOP3	abL2	ab25.4903000098965	ab2.39501999428056	ab8.8	ab0	ab246	abConforme	abCali	abCliente Granada	abTienda	ab3.4599991622	ab-76.5380497219	ab2026-01-22
+M2-202601-0024	ab2	abTarde	abOP1	abL4	ab25.1706795045787	ab3.78946178602828	ab8	ab0	ab245.6	abConforme	abCali	abSucursal San Fernando	abCliente	ab3.4183509225	ab-76.5559175164	ab2026-01-17
+M2-202601-0025	ab2	abNoche	abOP3	abL1	ab24.3633123810804	ab3.083061025354	ab9	ab0	ab249.2	abConforme	abBogotá	abTienda Kennedy	abCliente	ab4.6297020225	ab-74.1509029513	ab2026-01-05
+M2-202601-0026	ab2	abTarde	abOP4	abL3	ab24.8097813240329	ab4.16741836674487	ab9.4	ab1	ab249.3	abConforme	abCali	abCliente Granada	abTienda	ab3.4623019036	ab-76.5300497317	ab2026-03-20
+M2-202601-0027	ab2	abTarde	abOP2	abL1	ab21.4051146292194	ab3.31288551334821	ab8.5	ab0	ab246.6	abConforme	abMedellí­n	abTienda Laureles	abTienda	ab6.2555602206	ab-75.5885383664	ab2026-03-03
+M2-202601-0028	ab2	abTarde	abOP5	abL4	ab25.2641681545878	ab3.80939993384892	ab9.5	ab1	ab249.3	abConforme	abCali	abPunto Valle del Lili	abCliente	ab3.3850855806	ab-76.5439618757	ab2026-02-04
+M2-202601-0029	ab2	abTarde	abOP1	abL3	ab21.6493151929718	ab3.51978158838528	ab8.5	ab0	ab244.9	abNo conforme	abMedellí­n	abSucursal Belén	abCliente	ab6.2412229993	ab-75.5945323948	ab2026-01-22
+M2-202601-0030	ab2	abNoche	abOP4	abL2	ab22.730258022782	ab2.47757212275784	ab9.4	ab1	ab254.3	abConforme	abBogotá	abSucursal Usaquén	abCliente	ab4.6990368784	ab-74.0168689704	ab2026-03-04
+M2-202601-0031	ab2	abNoche	abOP6	abL1	ab19.28344199544	ab3.40421327615195	ab9.2	ab0	ab243.1	abNo conforme	abBogotá	abTienda Kennedy	abCliente	ab4.6389184974	ab-74.1463038525	ab2026-03-30
+M2-202601-0032	ab2	abMañana	abOP3	abL4	ab21.7476393214528	ab3.3231535370381	ab8.3	ab0	ab253.8	abConforme	abCali	abPunto Valle del Lili	abTienda	ab3.3652401451	ab-76.5510242861	ab2026-01-15
+M2-202601-0033	ab2	abMañana	abOP6	abL2	ab25.2039156402675	ab3.42328264336478	ab9.4	ab1	ab248.5	abConforme	abBogotá	abCliente Chapinero	abTienda	ab4.6420543501	ab-74.0665649328	ab2026-02-04
+M2-202601-0034	ab2	abTarde	abOP1	abL4	ab25.1368897059874	ab3.54691380576645	ab9.4	ab1	ab248.1	abConforme	abCali	abCliente Granada	abCliente	ab3.4676011547	ab-76.545293892	ab2026-01-30
+M2-202601-0035	ab2	abTarde	abOP2	abL3	ab23.6780049391101	ab3.25724677777922	ab8.9	ab0	ab243.4	abNo conforme	abCali	abPunto Valle del Lili	abDistribuidor	ab3.3900215073	ab-76.5431133346	ab2026-02-03
+M2-202601-0036	ab2	abMañana	abOP6	abL4	ab21.6518399480855	ab3.23624769666556	ab9.2	ab0	ab250.8	abConforme	abCali	abCliente Granada	abTienda	ab3.4650821921	ab-76.5248814355	ab2026-03-10
+M2-202601-0037	ab2	abMañana	abOP3	abL3	ab26.4426815472417	ab1.9980685560251	ab8.5	ab0	ab252.6	abConforme	abBogotá	abCliente Chapinero	abDistribuidor	ab4.6493977024	ab-74.0799767918	ab2026-03-10
+M2-202601-0038	ab2	abTarde	abOP3	abL2	ab20.5521498091897	ab3.18167278702394	ab8.6	ab0	ab244.5	abNo conforme	abCali	abSucursal San Fernando	abDistribuidor	ab3.4196234667	ab-76.5365427155	ab2026-03-12
+M2-202601-0039	ab2	abMañana	abOP1	abL2	ab23.8425172368702	ab3.86210751715522	ab9	ab0	ab250.6	abConforme	abCali	abPunto Valle del Lili	abDistribuidor	ab3.3897711659	ab-76.5394107437	ab2026-01-02
+M2-202601-0040	ab2	abTarde	abOP2	abL4	ab22.7793026708748	ab3.89150565689513	ab6.9	ab1	ab252.8	abConforme	abCali	abPunto Valle del Lili	abDistribuidor	ab3.3643071139	ab-76.5316747895	ab2026-03-21
+M2-202601-0041	ab2	abMañana	abOP1	abL4	ab21.5915806094997	ab3.89109278552103	ab9.4	ab1	ab254.1	abConforme	abCali	abPunto Valle del Lili	abTienda	ab3.363350899	ab-76.5333048285	ab2026-01-23
+M2-202601-0042	ab2	abMañana	abOP6	abL1	ab24.2413829026833	ab3.66911113344619	ab7.5	ab1	ab245.1	abConforme	abBogotá	abSucursal Usaquén	abTienda	ab4.7144229234	ab-74.0294377884	ab2026-03-28
+M2-202601-0043	ab2	abMañana	abOP2	abL3	ab22.0898434273483	ab3.30093009382793	ab7.6	ab1	ab244.6	abNo conforme	abCali	abCliente Granada	abCliente	ab3.4628511189	ab-76.5257856115	ab2026-03-29
+M2-202601-0044	ab2	abMañana	abOP2	abL2	ab24.1374459847677	ab2.89344006352561	ab8	ab0	ab247.3	abConforme	abBogotá	abTienda Kennedy	abCliente	ab4.6228248499	ab-74.1488833682	ab2026-01-21
+M2-202601-0045	ab2	abMañana	abOP2	abL3	ab24.8995019076053	ab3.06025223277149	ab8.4	ab0	ab248.7	abConforme	abMedellí­n	abTienda Laureles	abTienda	ab6.2560300388	ab-75.6005194356	ab2026-03-23
+M2-202601-0046	ab2	abMañana	abOP5	abL3	ab25.0098765421189	ab3.05870199272725	ab8.6	ab0	ab245.1	abConforme	abMedellí­n	abTienda Laureles	abCliente	ab6.2301591488	ab-75.6062828163	ab2026-01-19
+M2-202601-0047	ab2	abNoche	abOP4	abL1	ab24.6735151365078	ab3.68436059623006	ab8.4	ab0	ab245.5	abConforme	abMedellí­n	abTienda Laureles	abCliente	ab6.2363168909	ab-75.5803273604	ab2026-01-09
+M2-202601-0048	ab2	abTarde	abOP6	abL3	ab26.8245460745304	ab3.27698888419408	ab8.5	ab0	ab252	abConforme	abBogotá	abSucursal Usaquén	abCliente	ab4.7085947105	ab-74.0245099791	ab2026-03-24
+M2-202601-0049	ab2	abMañana	abOP4	abL3	ab21.9150323847383	ab3.67993508312471	ab8.8	ab0	ab247.5	abConforme	abCali	abCliente Granada	abCliente	ab3.4543745527	ab-76.5285182959	ab2026-03-03
+M2-202601-0050	ab2	abTarde	abOP5	abL2	ab27.1539412896657	ab2.21887049858702	ab7.8	ab1	ab251.5	abConforme	abBogotá	abSucursal Usaquén	abTienda	ab4.6975548376	ab-74.0430021336	ab2026-03-24
+M2-202601-0051	ab2	abMañana	abOP4	abL3	ab22.9380790192349	ab2.93848380124994	ab9	ab0	ab246.4	abConforme	abCali	abPunto Valle del Lili	abDistribuidor	ab3.3659195145	ab-76.5367922286	ab2026-03-10
+M2-202601-0052	ab2	abTarde	abOP6	abL4	ab22.4750033008541	ab3.03146174062841	ab8.8	ab0	ab251.3	abConforme	abBogotá	abCliente Chapinero	abCliente	ab4.6576428875	ab-74.0722173117	ab2026-02-14
+M2-202601-0053	ab2	abNoche	abOP1	abL3	ab25.3911349688824	ab3.82539835062477	ab9.2	ab0	ab248.4	abConforme	abBogotá	abTienda Kennedy	abCliente	ab4.6170884617	ab-74.1416491751	ab2026-03-21
+M2-202601-0054	ab2	abNoche	abOP2	abL4	ab24.2337618592853	ab2.5670884634941	ab9.5	ab1	ab247.7	abConforme	abMedellí­n	abCliente El Poblado	abCliente	ab6.2184815217	ab-75.5799246016	ab2026-02-01
+M2-202601-0055	ab2	abMañana	abOP1	abL3	ab25.4072497992319	ab3.40040872149445	ab6.8	ab1	ab244.6	abNo conforme	abMedellí­n	abTienda Laureles	abDistribuidor	ab6.2391299349	ab-75.6021129519	ab2026-02-17
+M2-202601-0056	ab2	abMañana	abOP2	abL3	ab23.3937835803771	ab3.08730255903254	ab8.7	ab0	ab243.1	abNo conforme	abBogotá	abSucursal Usaquén	abTienda	ab4.6992250816	ab-74.0426986621	ab2026-01-15
+M2-202601-0057	ab2	abMañana	abOP3	abL1	ab25.6683083232908	ab4.07138211715961	ab10.1	ab1	ab250.6	abConforme	abCali	abPunto Valle del Lili	abDistribuidor	ab3.3795923627	ab-76.5435130056	ab2026-01-26
+M2-202601-0058	ab2	abMañana	abOP2	abL1	ab24.2139640148427	ab3.55035361947923	ab8.5	ab0	ab243.6	abNo conforme	abBogotá	abCliente Chapinero	abCliente	ab4.6364990123	ab-74.0583080334	ab2026-01-20
+M2-202601-0059	ab2	abNoche	abOP3	abL4	ab24.4220333149242	ab3.85490430707403	ab8.5	ab0	ab244.4	abNo conforme	abMedellí­n	abSucursal Belén	abCliente	ab6.2162598115	ab-75.5829476429	ab2026-02-04
+M2-202601-0060	ab2	abMañana	abOP1	abL4	ab24.0567305937912	ab2.91937902920378	ab10.3	ab1	ab248.7	abConforme	abCali	abPunto Valle del Lili	abCliente	ab3.3904913434	ab-76.5318459942	ab2026-02-24
+M2-202601-0061	ab2	abNoche	abOP4	abL2	ab26.6019008491489	ab3.9035580494394	ab7.6	ab1	ab251.3	abConforme	abMedellí­n	abTienda Laureles	abTienda	ab6.2467181654	ab-75.5940668057	ab2026-01-31
+M2-202601-0062	ab2	abTarde	abOP2	abL1	ab21.06958043109	ab3.52376491638065	ab9.4	ab1	ab247.1	abConforme	abMedellí­n	abCliente El Poblado	abDistribuidor	ab6.217254692	ab-75.5671185698	ab2026-01-24
+M2-202601-0063	ab2	abNoche	abOP3	abL3	ab20.7522007751768	ab3.75210562928439	ab7.3	ab1	ab251	abConforme	abBogotá	abCliente Chapinero	abDistribuidor	ab4.6603568837	ab-74.0516352425	ab2026-01-17
+M2-202601-0064	ab2	abTarde	abOP5	abL4	ab24.3845937589606	ab3.13360472145293	ab8.3	ab0	ab243.7	abNo conforme	abMedellí­n	abTienda Laureles	abTienda	ab6.2518459636	ab-75.6055945554	ab2026-03-12
+M2-202601-0065	ab2	abMañana	abOP5	abL1	ab27.4890402823056	ab4.06004939182549	ab9.3	ab0	ab251.6	abConforme	abBogotá	abSucursal Usaquén	abCliente	ab4.7173761119	ab-74.0443456447	ab2026-02-26
+M2-202601-0066	ab2	abMañana	abOP6	abL3	ab24.1576260773487	ab2.75407474194167	ab9.3	ab0	ab250.8	abConforme	abBogotá	abSucursal Usaquén	abCliente	ab4.689324412	ab-74.0199293552	ab2026-03-18
+M2-202601-0067	ab2	abTarde	abOP3	abL3	ab23.0621030463353	ab3.1041519385603	ab7.8	ab1	ab246.2	abConforme	abCali	abPunto Valle del Lili	abDistribuidor	ab3.3878020265	ab-76.5405664371	ab2026-02-04
+M2-202601-0068	ab2	abMañana	abOP6	abL3	ab20.542334018455	ab2.76572263172095	ab10	ab1	ab249.2	abConforme	abCali	abSucursal San Fernando	abTienda	ab3.4437650244	ab-76.5584291796	ab2026-02-27
+M2-202601-0069	ab2	abNoche	abOP6	abL2	ab26.1303087941881	ab2.9556484541013	ab7.9	ab1	ab252.3	abConforme	abCali	abCliente Granada	abCliente	ab3.4708622277	ab-76.5274767357	ab2026-02-23
+M2-202601-0070	ab2	abNoche	abOP2	abL1	ab24.9605635321273	ab3.69382265243487	ab7.9	ab1	ab244.6	abNo conforme	abCali	abPunto Valle del Lili	abTienda	ab3.3720044925	ab-76.5392414251	ab2026-01-13
+M2-202601-0071	ab2	abTarde	abOP5	abL1	ab24.2749980771347	ab3.16275005352884	ab9.5	ab1	ab245	abConforme	abBogotá	abSucursal Usaquén	abDistribuidor	ab4.6892632415	ab-74.0280622163	ab2026-03-19
+M2-202601-0072	ab2	abTarde	abOP4	abL3	ab25.5779149003224	ab3.42940088596385	ab8.3	ab0	ab248.2	abConforme	abMedellí­n	abCliente El Poblado	abTienda	ab6.2047323324	ab-75.572075537	ab2026-03-09
+M2-202601-0073	ab2	abNoche	abOP2	abL1	ab22.3458401679552	ab4.47921384833458	ab8.9	ab0	ab246.6	abConforme	abBogotá	abTienda Kennedy	abTienda	ab4.6209125381	ab-74.1638811414	ab2026-01-25
+M2-202601-0074	ab2	abMañana	abOP1	abL2	ab24.4878883028527	ab3.6144151148934	ab8.8	ab0	ab247.2	abConforme	abCali	abCliente Granada	abDistribuidor	ab3.4731140244	ab-76.5434723719	ab2026-01-29
+M2-202601-0075	ab2	abNoche	abOP4	abL3	ab22.000273949941	ab3.3730087833234	ab8.4	ab0	ab250.4	abConforme	abCali	abPunto Valle del Lili	abDistribuidor	ab3.3715720514	ab-76.5380695141	ab2026-02-22
+M2-202601-0076	ab2	abMañana	abOP1	abL4	ab26.2828300112277	ab3.76669224067576	ab9.8	ab1	ab248.9	abConforme	abMedellí­n	abTienda Laureles	abTienda	ab6.2383343337	ab-75.5927590314	ab2026-01-16
+M2-202601-0077	ab2	abMañana	abOP4	abL2	ab20.0341765005135	ab3.34490123509269	ab8.2	ab0	ab236.4	abNo conforme	abBogotá	abSucursal Usaquén	abCliente	ab4.7107740602	ab-74.0423806143	ab2026-02-10
+M2-202601-0078	ab2	abMañana	abOP5	abL1	ab23.9509865030117	ab2.99955587361407	ab8.8	ab0	ab244.5	abNo conforme	abBogotá	abSucursal Usaquén	abDistribuidor	ab4.7133450387	ab-74.0415069285	ab2026-01-09
+M2-202601-0079	ab2	abTarde	abOP4	abL3	ab23.5836950640045	ab3.867561422731	ab7.9	ab1	ab249.9	abConforme	abCali	abSucursal San Fernando	abTienda	ab3.4315376468	ab-76.5368404403	ab2026-02-06
+M2-202601-0080	ab2	abMañana	abOP2	abL2	ab22.0259011850992	ab3.36370210933709	ab10.1	ab1	ab248.2	abConforme	abBogotá	abSucursal Usaquén	abCliente	ab4.7098889499	ab-74.0307781518	ab2026-02-23
+M2-202601-0081	ab2	abTarde	abOP2	abL2	ab23.1849675858864	ab3.60310577985979	ab7.9	ab1	ab244.7	abNo conforme	abCali	abCliente Granada	abCliente	ab3.4507223591	ab-76.5210703193	ab2026-03-27
+M2-202601-0082	ab2	abNoche	abOP4	abL4	ab22.9744391886748	ab3.44546839006899	ab8.7	ab0	ab242.2	abNo conforme	abBogotá	abCliente Chapinero	abCliente	ab4.6401994953	ab-74.0598933504	ab2026-03-27
+M2-202601-0083	ab2	abMañana	abOP3	abL1	ab21.9768792928318	ab3.38202962953559	ab9.4	ab1	ab250.4	abConforme	abMedellí­n	abCliente El Poblado	abTienda	ab6.2224185374	ab-75.5798087691	ab2026-01-24
+M2-202601-0084	ab2	abMañana	abOP5	abL1	ab20.5871958856964	ab3.46403029490943	ab9.3	ab0	ab247.8	abConforme	abMedellí­n	abTienda Laureles	abDistribuidor	ab6.2517611262	ab-75.588404033	ab2026-01-14
+M2-202601-0085	ab2	abMañana	abOP6	abL4	ab27.5637537977377	ab2.60501845101663	ab8.5	ab0	ab243.6	abNo conforme	abMedellí­n	abTienda Laureles	abCliente	ab6.2537686615	ab-75.582448588	ab2026-01-30
+M2-202601-0086	ab2	abNoche	abOP2	abL3	ab20.9114788653066	ab3.5438159395732	ab10.4	ab1	ab249.1	abConforme	abMedellí­n	abCliente El Poblado	abTienda	ab6.2063333131	ab-75.5612444947	ab2026-03-03
+M2-202601-0087	ab2	abMañana	abOP3	abL4	ab23.6263816914034	ab2.7729310080315	ab10.1	ab1	ab247.8	abConforme	abMedellí­n	abTienda Laureles	abCliente	ab6.2470151548	ab-75.6059811604	ab2026-02-09
+M2-202601-0088	ab2	abTarde	abOP3	abL2	ab23.7466555321476	ab3.28301443162481	ab8.2	ab0	ab244.1	abNo conforme	abMedellí­n	abCliente El Poblado	abCliente	ab6.2177647067	ab-75.5525680439	ab2026-02-08
+M2-202601-0089	ab2	abTarde	abOP3	abL1	ab21.8391630056932	ab3.29887823088282	ab8	ab0	ab244.9	abNo conforme	abCali	abSucursal San Fernando	abTienda	ab3.4444522595	ab-76.5394391286	ab2026-03-13
+M2-202601-0090	ab2	abTarde	abOP6	abL4	ab24.3499139253996	ab3.14496914906008	ab9.4	ab1	ab251	abConforme	abMedellí­n	abTienda Laureles	abCliente	ab6.2407557478	ab-75.6047421886	ab2026-01-14
+M2-202601-0091	ab2	abMañana	abOP1	abL4	ab21.6180085109305	ab2.5776952098146	ab9.3	ab0	ab245.9	abConforme	abMedellí­n	abSucursal Belén	abCliente	ab6.2183096625	ab-75.5903397447	ab2026-02-17
+M2-202601-0092	ab2	abTarde	abOP1	abL1	ab23.8915073195967	ab4.18156670800907	ab8.8	ab0	ab243	abNo conforme	abMedellí­n	abCliente El Poblado	abCliente	ab6.2125723091	ab-75.5519220341	ab2026-03-06
+M2-202601-0093	ab2	abTarde	abOP3	abL4	ab20.6306687042927	ab3.22091249705154	ab7.7	ab1	ab252.2	abConforme	abMedellí­n	abCliente El Poblado	abDistribuidor	ab6.2161690865	ab-75.5675764987	ab2026-01-23
+M2-202601-0094	ab2	abMañana	abOP4	abL3	ab22.7707938657178	ab2.41119631370282	ab8.3	ab0	ab242.1	abNo conforme	abBogotá	abSucursal Usaquén	abTienda	ab4.6905613537	ab-74.0376683077	ab2026-01-26
+M2-202601-0095	ab2	abTarde	abOP4	abL3	ab24.7341666326061	ab2.80473801324346	ab10	ab1	ab249.1	abConforme	abCali	abPunto Valle del Lili	abCliente	ab3.3697155283	ab-76.5455171999	ab2026-02-15
+M2-202601-0096	ab2	abNoche	abOP5	abL4	ab19.0853143473946	ab3.73148673041676	ab7.6	ab1	ab250	abConforme	abBogotá	abTienda Kennedy	abTienda	ab4.6311368647	ab-74.1619135605	ab2026-01-23
+M2-202601-0097	ab2	abMañana	abOP2	abL1	ab23.5913293189348	ab3.64481091856534	ab7.9	ab1	ab249.5	abConforme	abBogotá	abTienda Kennedy	abTienda	ab4.6352879617	ab-74.1516303697	ab2026-03-04
+M2-202601-0098	ab2	abMañana	abOP2	abL4	ab25.1166724055215	ab3.02176849527316	ab7.7	ab1	ab246	abConforme	abMedellí­n	abSucursal Belén	abDistribuidor	ab6.243111714	ab-75.590000496	ab2026-01-21
+M2-202601-0099	ab2	abNoche	abOP4	abL2	ab24.6484212148197	ab3.51768013396228	ab10.1	ab1	ab244.9	abNo conforme	abBogotá	abCliente Chapinero	abTienda	ab4.6478725152	ab-74.0600118936	ab2026-03-22
+M2-202601-0100	ab2	abNoche	abOP2	abL1	ab25.3954740112867	ab3.78985715711198	ab8.6	ab0	ab249.8	abConforme	abMedellí­n	abSucursal Belén	abTienda	ab6.232613584	ab-75.5963043162	ab2026-02-08
+M2-202601-0101	ab2	abTarde	abOP1	abL3	ab21.9548538731485	ab3.50061976537778	ab10.2	ab1	ab248.5	abConforme	abCali	abCliente Granada	abTienda	ab3.4696986104	ab-76.5225560903	ab2026-03-12
+M2-202601-0102	ab2	abNoche	abOP4	abL1	ab23.6634584823788	ab2.97469322741311	ab8.9	ab0	ab244.1	abNo conforme	abMedellí­n	abSucursal Belén	abDistribuidor	ab6.2413234227	ab-75.5899249959	ab2026-02-14
+M2-202601-0103	ab2	abNoche	abOP3	abL3	ab22.4810217129821	ab3.65878442262773	ab9.3	ab0	ab244.7	abNo conforme	abMedellí­n	abCliente El Poblado	abCliente	ab6.2210743951	ab-75.579597946	ab2026-02-16
+M2-202601-0104	ab2	abMañana	abOP1	abL2	ab23.4941815255641	ab2.9905173318462	ab8.3	ab0	ab244.4	abNo conforme	abCali	abCliente Granada	abCliente	ab3.4492914668	ab-76.535472889	ab2026-03-17
+M2-202601-0105	ab2	abTarde	abOP5	abL4	ab25.9053599815309	ab3.26753750863018	ab8.2	ab0	ab245.4	abConforme	abMedellí­n	abSucursal Belén	abTienda	ab6.2306872491	ab-75.6111735966	ab2026-02-15
+M2-202601-0106	ab2	abMañana	abOP3	abL1	ab23.4491702039589	ab3.67829115174308	ab8.2	ab0	ab251.8	abConforme	abCali	abPunto Valle del Lili	abCliente	ab3.3712163432	ab-76.5293629119	ab2026-03-24
+M2-202601-0107	ab2	abMañana	abOP4	abL3	ab21.5343879219799	ab2.79288524258905	ab7.8	ab1	ab247.6	abConforme	abCali	abCliente Granada	abDistribuidor	ab3.4729666837	ab-76.5191890236	ab2026-03-01
+M2-202601-0108	ab2	abMañana	abOP2	abL4	ab24.4750071688216	ab2.95396458977396	ab9	ab0	ab246.8	abConforme	abCali	abPunto Valle del Lili	abTienda	ab3.3848930549	ab-76.5370220489	ab2026-03-24
+M2-202601-0109	ab2	abMañana	abOP5	abL4	ab26.1025185772783	ab2.90142357430165	ab8.2	ab0	ab253.3	abConforme	abBogotá	abCliente Chapinero	abCliente	ab4.6371199368	ab-74.054529062	ab2026-03-30
+M2-202601-0110	ab2	abNoche	abOP5	abL3	ab23.8890841098483	ab3.12026421271232	ab8	ab0	ab250.2	abConforme	abMedellí­n	abCliente El Poblado	abDistribuidor	ab6.2151805966	ab-75.5626931141	ab2026-01-17
+M2-202601-0111	ab2	abMañana	abOP2	abL3	ab22.9246462651903	ab2.44911750247218	ab7.5	ab1	ab253.5	abConforme	abBogotá	abTienda Kennedy	abCliente	ab4.6197580657	ab-74.1485502907	ab2026-01-09
+M2-202601-0112	ab2	abMañana	abOP6	abL2	ab23.7007646301893	ab3.38655437564473	ab8.9	ab0	ab255.1	abNo conforme	abCali	abPunto Valle del Lili	abTienda	ab3.3629487025	ab-76.5379605621	ab2026-01-23
+M2-202601-0113	ab2	abMañana	abOP2	abL4	ab23.1801711810992	ab3.88242755634047	ab8.9	ab0	ab246.4	abConforme	abCali	abCliente Granada	abTienda	ab3.4756693844	ab-76.5240174823	ab2026-01-31
+M2-202601-0114	ab2	abTarde	abOP2	abL2	ab24.0350831998615	ab3.35317770345076	ab8.7	ab0	ab248.8	abConforme	abBogotá	abSucursal Usaquén	abTienda	ab4.6927150348	ab-74.0194991314	ab2026-02-07
+M2-202601-0115	ab2	abTarde	abOP1	abL4	ab25.5020822083631	ab3.48978848889894	ab7.6	ab1	ab252.2	abNo conforme	abMedellí­n	abTienda Laureles	abCliente	ab6.2486117205	ab-75.5845857646	ab2026-02-02
+M2-202601-0116	ab2	abMañana	abOP3	abL1	ab24.7247422477677	ab3.06843749804588	ab8.5	ab0	ab251.3	abConforme	abMedellí­n	abSucursal Belén	abCliente	ab6.2208055324	ab-75.6105570445	ab2026-03-21
+M2-202601-0117	ab2	abTarde	abOP6	abL2	ab22.829702260155	ab2.85772277241038	ab8.2	ab0	ab255.8	abNo conforme	abMedellí­n	abCliente El Poblado	abDistribuidor	ab6.1944022203	ab-75.5800831097	ab2026-03-01
+M2-202601-0118	ab2	abNoche	abOP4	abL2	ab25.6319189651159	ab3.24872299659569	ab8.4	ab0	ab250.2	abConforme	abBogotá	abSucursal Usaquén	abTienda	ab4.7036394154	ab-74.0450340415	ab2026-03-13
+M2-202601-0119	ab2	abTarde	abOP3	abL4	ab23.4661268128532	ab2.88839286484361	ab8.8	ab0	ab249.3	abConforme	abMedellí­n	abTienda Laureles	abTienda	ab6.2317883368	ab-75.5832031946	ab2026-01-05
+M2-202601-0120	ab2	abNoche	abOP3	abL2	ab23.0565586736905	ab2.75539401716497	ab7.2	ab1	ab253	abConforme	abMedellí­n	abSucursal Belén	abDistribuidor	ab6.2240900704	ab-75.5954126449	ab2026-03-04
