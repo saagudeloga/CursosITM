@@ -1,0 +1,3 @@
+Link Tablero Parcial 2
+
+https://app.powerbi.com/view?r=eyJrIjoiOTBiMjI4Y2MtYjkyZi00Y2FhLTg3ZDYtODI3OTQ3ZjlhY2RlIiwidCI6ImEyYmE0MzQ1LTc3NjQtNGQyMi1iNmExLTdjZjUyOGYzYjNhNSIsImMiOjR9
